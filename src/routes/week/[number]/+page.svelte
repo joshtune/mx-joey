@@ -71,9 +71,9 @@
 </nav>
 
 <!-- Lesson Header -->
-<div class="rounded-xl {colors.bg} p-5 mb-6">
+<div class="rounded-xl p-5 mb-6" style={colors.bg}>
 	<div class="flex items-center gap-2 mb-2">
-		<span class="text-xs font-medium px-2 py-0.5 rounded-full {colors.badge}">
+		<span class="text-xs font-medium px-2 py-0.5 rounded-full" style={colors.badge}>
 			{data.lesson.book}
 		</span>
 		<span class="text-xs text-text-muted">

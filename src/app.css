@@ -2,33 +2,43 @@
 
 @custom-variant dark (&:is(.dark *));
 
-@theme inline {
-	--color-bg: oklch(0.98 0.005 80);
-	--color-surface: oklch(1 0 0);
-	--color-primary: oklch(0.45 0.12 250);
-	--color-primary-light: oklch(0.92 0.04 250);
-	--color-text: oklch(0.25 0.02 260);
-	--color-text-muted: oklch(0.55 0.02 260);
-	--color-border: oklch(0.88 0.01 80);
-	--color-accent: oklch(0.6 0.15 150);
+@theme {
+	--color-bg: var(--joey-bg);
+	--color-surface: var(--joey-surface);
+	--color-primary: var(--joey-primary);
+	--color-primary-light: var(--joey-primary-light);
+	--color-text: var(--joey-text);
+	--color-text-muted: var(--joey-text-muted);
+	--color-border: var(--joey-border);
+	--color-accent: var(--joey-accent);
 	--font-sans: 'Inter', 'system-ui', sans-serif;
 }
 
-body {
-	background-color: var(--color-bg);
-	color: var(--color-text);
-	font-family: var(--font-sans);
-	transition: background-color 0.2s, color 0.2s;
+:root {
+	--joey-bg: oklch(0.98 0.005 80);
+	--joey-surface: oklch(1 0 0);
+	--joey-primary: oklch(0.45 0.12 250);
+	--joey-primary-light: oklch(0.92 0.04 250);
+	--joey-text: oklch(0.25 0.02 260);
+	--joey-text-muted: oklch(0.55 0.02 260);
+	--joey-border: oklch(0.88 0.01 80);
+	--joey-accent: oklch(0.6 0.15 150);
 }
 
-/* Dark mode overrides */
 .dark {
-	--color-bg: oklch(0.15 0.01 260);
-	--color-surface: oklch(0.2 0.01 260);
-	--color-primary: oklch(0.7 0.12 250);
-	--color-primary-light: oklch(0.25 0.04 250);
-	--color-text: oklch(0.9 0.01 260);
-	--color-text-muted: oklch(0.6 0.02 260);
-	--color-border: oklch(0.3 0.01 260);
-	--color-accent: oklch(0.7 0.12 150);
+	--joey-bg: oklch(0.15 0.01 260);
+	--joey-surface: oklch(0.2 0.01 260);
+	--joey-primary: oklch(0.7 0.12 250);
+	--joey-primary-light: oklch(0.25 0.04 250);
+	--joey-text: oklch(0.9 0.01 260);
+	--joey-text-muted: oklch(0.6 0.02 260);
+	--joey-border: oklch(0.3 0.01 260);
+	--joey-accent: oklch(0.7 0.12 150);
+}
+
+body {
+	background-color: var(--joey-bg);
+	color: var(--joey-text);
+	font-family: var(--font-sans);
+	transition: background-color 0.2s, color 0.2s;
 }
