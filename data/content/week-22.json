@@ -1,30 +1,82 @@
 {
 	"weekNumber": 22,
-	"generatedAt": "2026-03-30T04:38:22.187Z",
-	"quickInsight": "God didn't ask the Israelites to be perfect — He asked them to bring what they had, and together they built something sacred.",
+	"generatedAt": "2026-03-30T05:14:21.729Z",
+	"quickStudy": {
+		"summary": "After the golden calf disaster, Moses gathers all of Israel and basically says, 'Okay, let's try this again — but this time, let's build something for God.' He invites everyone to bring offerings to build the tabernacle — a portable temple they can carry through the wilderness. And the people go ALL in. They bring gold, silver, fabric, animal skins, wood, oil, spices — so much stuff that Moses actually has to tell them to STOP giving because they have more than enough (Exodus 36:5-7). Two guys named Bezaleel and Aholiab are called as master craftsmen, and they lead the construction. The tabernacle gets built piece by piece: the ark of the covenant, the mercy seat, the candlestick, the altars, the priestly robes — everything exactly as God commanded. When it's all done, Moses sets it up, and the glory of the Lord fills the tabernacle so powerfully that even Moses can't go inside. A cloud covers it by day and fire by night — a visible sign that God is with them.\n\nThen Leviticus kicks in with instructions for how to actually worship at this new tabernacle. Leviticus 1 covers burnt offerings — you bring your best animal, without blemish, as a voluntary gift to God. Leviticus 16 is the big one: the Day of Atonement (Yom Kippur). Once a year, the high priest Aaron enters the Holy of Holies — the most sacred space on earth — to make atonement for all of Israel. Two goats are chosen: one is sacrificed, and the other (the scapegoat) has the sins of the people symbolically placed on its head and is sent into the wilderness, never to return. It's an incredibly powerful symbol of how Christ would eventually carry our sins away. Finally, Leviticus 19 is God's practical holiness checklist: love your neighbor as yourself, don't steal, don't lie, respect your parents, be fair, take care of the poor. It's where God says, 'Be holy, for I the Lord your God am holy' — and then shows exactly what that looks like in everyday life.",
+		"mustRead": [
+			{
+				"reference": "Exodus 35:4-5, 20-22",
+				"why": "The people's overwhelming generosity — they give so freely for the tabernacle that Moses has to tell them to stop. Sets up the theme of willing hearts."
+			},
+			{
+				"reference": "Exodus 36:5-7",
+				"why": "Moses literally restrains the people from giving more. One of the only times in scripture where God's people give TOO much. A powerful moment."
+			},
+			{
+				"reference": "Exodus 40:33-38",
+				"why": "The climax of the entire Exodus story — the tabernacle is finished, the glory of the Lord fills it, and the cloud and fire appear. God is dwelling among His people."
+			},
+			{
+				"reference": "Leviticus 16:7-10, 20-22",
+				"why": "The scapegoat ceremony — the most vivid Old Testament symbol of the Atonement of Jesus Christ. The goat literally carries sins away into the wilderness."
+			},
+			{
+				"reference": "Leviticus 19:1-4, 11-18",
+				"why": "God's holiness checklist for everyday life. Includes 'love thy neighbour as thyself' — the verse Christ later called the second great commandment."
+			}
+		],
+		"quotableVerses": [
+			{
+				"reference": "Exodus 35:5",
+				"text": "Whosoever is of a willing heart, let him bring it, an offering of the Lord; gold, and silver, and brass."
+			},
+			{
+				"reference": "Exodus 36:7",
+				"text": "For the stuff they had was sufficient for all the work to make it, and too much."
+			},
+			{
+				"reference": "Exodus 40:34",
+				"text": "Then a cloud covered the tent of the congregation, and the glory of the Lord filled the tabernacle."
+			},
+			{
+				"reference": "Leviticus 16:21-22",
+				"text": "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness: And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness."
+			},
+			{
+				"reference": "Leviticus 19:2",
+				"text": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the Lord your God am holy."
+			},
+			{
+				"reference": "Leviticus 19:18",
+				"text": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord."
+			}
+		],
+		"context": "The tabernacle wasn't just a fancy tent — it was designed to be a portable Mount Sinai. The whole structure was a way for God to come DOWN and dwell among His people, not just speak from a distant mountaintop. Every detail pointed to Christ: the veil separating the Holy of Holies symbolized the barrier between God and man (which would literally tear at Christ's crucifixion), the ark contained God's law and His mercy seat sat on top of it (mercy over justice), and the whole thing was oriented so that when you entered, you walked west — toward the setting sun and the presence of God. The people had just failed catastrophically with the golden calf, and God was essentially saying, 'I'm not giving up on you. Build this, and I will live among you.'\n\nThe Day of Atonement in Leviticus 16 was the single most important day in the Israelite calendar. The high priest could only enter the Holy of Holies on this one day per year, and he had to follow an incredibly specific process or he would die. He wore simple white linen — no fancy robes — symbolizing purity and humility. The two goats represented two aspects of Christ's Atonement: one died (Christ's sacrifice), and the other carried sins far away, never to return (Christ's power to remove our sins completely). The word 'scapegoat' in English actually comes from this very passage. And Leviticus 19's command to 'love thy neighbour as thyself' is the verse Jesus quoted in Matthew 22:39 as the second great commandment — it didn't originate in the New Testament. It was always the standard."
+	},
+	"quickInsight": "God didn't ask Israel for perfection after the golden calf — He asked for a willing heart, and then He came and dwelt among them anyway.",
 	"keyThemes": [
-		"Everyone has talents and skills to contribute — the tabernacle was built by ordinary people offering what they could (Exodus 35–36)",
-		"Making space for God in your life — the tabernacle was a physical reminder to keep God close, and we need those reminders too (Exodus 40)",
-		"The Atonement of Jesus Christ can completely cleanse us — the Day of Atonement (Leviticus 16) points directly to what Christ would do for each of us",
-		"Holiness is practical, not weird — Leviticus 19 is basically 'be honest, be kind, look out for people, love your neighbor'",
-		"Giving your best, not your leftovers — sacrifices had to be without blemish, meaning God deserves our real effort, not just what's convenient"
+		"Willing hearts — giving your best to God, not because you have to but because you want to",
+		"God's presence — He wants to be close to us, not distant, and He makes a way for that to happen",
+		"The Atonement — Christ carries our sins away completely, like the scapegoat into the wilderness",
+		"Practical holiness — being holy isn't just a feeling, it's how you treat people every single day",
+		"Second chances — Israel built the tabernacle right after their worst failure, proving God doesn't give up on us"
 	],
 	"discussionQuestions": [
-		"The Israelites brought their best materials — gold, silver, fine fabric — to build the tabernacle. What does it look like for a 14-year-old to bring his 'best' to God? What are you tempted to give Him the leftovers of instead?",
-		"Leviticus 19:18 says 'love thy neighbour as thyself.' Be real — who's the hardest 'neighbor' to love in your life right now (a teammate, someone at school, online)? What would it actually look like to try this week?",
-		"The tabernacle was designed so the Israelites could feel God's presence. Where or when do YOU feel closest to God? What makes that place or moment different?",
-		"On the Day of Atonement, the scapegoat symbolically carried away the people's sins. Have you ever carried guilt or regret that you didn't need to keep carrying? What would it feel like to actually let Christ take that?",
-		"Bezaleel was filled with the Spirit of God to do craftsmanship — woodworking, metalwork, design (Exodus 35:31-33). Does it surprise you that God cares about your non-churchy talents too? How might God use what you're good at?"
+		"The Israelites gave so much to build the tabernacle that Moses had to tell them to stop. What would it look like if we showed up to church or to quorum with that kind of energy and generosity? What holds us back?",
+		"The scapegoat literally carried all of Israel's sins into the wilderness and never came back. What does it feel like to know that Christ doesn't just forgive your mistakes — He carries them away so they're completely gone? Do you actually believe that, or is it hard to let go of guilt?",
+		"Leviticus 19:18 says to love your neighbor as yourself. Be honest — is there someone at school, on your team, or online that you struggle to treat that way? What would change if you actually tried it for one week?",
+		"God filled the tabernacle with His glory right after Israel's biggest failure (the golden calf). Have you ever felt like God showed up for you right when you thought you'd messed up the worst? What happened?",
+		"Bezaleel and Aholiab were called by name to use their specific skills — craftsmanship, art, design — to build the tabernacle. What skills or talents do you have that God might want you to use for something bigger than yourself?"
 	],
 	"teachingIdeas": [
-		"Bring a toolbox or backpack full of random tools/items (wrench, paintbrush, phone charger, basketball, pencil). Have each young man pick one and explain how that tool could represent a talent someone used to build the tabernacle — then flip it: what 'tool' do YOU bring to the quorum, your family, or your friend group? The point is that God used every skill, not just the 'spiritual' ones.",
-		"Read Leviticus 19:11-18 out loud but replace the ancient context with modern equivalents as you go — 'Don't steal' becomes 'Don't screenshot someone's private message and share it,' 'Don't put a stumbling block before the blind' becomes 'Don't set your friend up to fail or look stupid for laughs.' Let them see that this chapter is shockingly relevant to their actual week.",
-		"For the Day of Atonement (Leviticus 16), use a whiteboard or sticky notes. Have each young man anonymously write something heavy they or someone their age might carry — guilt, pressure, comparison, mistakes. Stick them on a board. Then physically remove them one by one and read Leviticus 16:30: 'On that day shall the priest make an atonement for you, to cleanse you.' That's what Jesus Christ does — He doesn't just forgive, He removes it.",
-		"Ask: 'If you had to build a place where God would literally show up, what would you put in it?' Let them brainstorm, then show them what God actually asked for in the tabernacle — and point out that the real temple we each build is our own life (1 Corinthians 3:16). What are you 'building' your life with right now?"
+		"Bring a box or bag and ask each young man to put something in it that represents what they'd be willing to 'offer' — their time, a talent, energy, attention. Then read Exodus 35:5 ('whosoever is of a willing heart') and talk about how the tabernacle was built by ordinary people giving what they had. Connect it to quorum goals, serving others, or how they show up on Sundays.",
+		"Do a scapegoat demonstration: write sins, mistakes, or burdens on slips of paper (anonymously). Put them in someone's hands, read Leviticus 16:21-22, then have that person walk out of the room and throw them away — gone, never coming back. Talk about how the Atonement doesn't just cover our sins, it removes them. This can be really powerful if you let it breathe and don't over-explain it.",
+		"Show a picture of a temple and a picture of the tabernacle side by side. Walk through the parallels — both are houses of the Lord, both require sacrifice and preparation to enter, both have a most holy place where God's presence dwells. Ask: if the Israelites were willing to give everything to build a portable tent for God, what are we willing to give to be worthy to enter His house today?",
+		"Read Leviticus 19:2, 11-18 like a 'holiness checklist' and have the young men rate themselves honestly (thumbs up, sideways, or down) on each one — not to shame anyone, but to show that holiness is made up of real, everyday choices: don't lie, don't steal, don't hold grudges, love your neighbor. Holiness isn't abstract — it's Monday through Saturday behavior."
 	],
 	"activities": [
-		"**Service Build Night**: Pick a hands-on service project that uses different skills — assemble hygiene kits, build something for someone in the ward, or do a cleanup project. Assign roles based on each young man's strengths (organizer, builder, communicator). Tie it back to how the tabernacle was built by everyone contributing their specific gifts.",
-		"**Talent Showcase / Skill Swap**: Have each young man teach the group something he's good at for 5-10 minutes — a basketball move, a card trick, how to fix something, a cooking skill, a song. The lesson: God gave Bezaleel the Spirit to do craftsmanship. Your talents matter to God and to the people around you. Close with a quick testimony about how God uses ordinary skills for His work.",
-		"**'What Are You Carrying?' Hike or Walk**: Go on a short hike or walk. Give each young man a rock to carry in his hand the whole time. At the end, have them set the rock down and talk about the Day of Atonement — the weight we carry that Christ wants to take. Let them write one thing on the rock with a marker and leave it behind as a symbol of giving it to the Savior."
+		"Service blitz (willing hearts in action): As a quorum, pick a family in the ward or a neighbor and show up to do a service project — yard work, moving help, meal delivery, whatever is needed. Frame it as the 'Exodus 35 challenge': bring what you've got (your time, your energy, your hands) with a willing heart. No complaining allowed.",
+		"Build something together: Do a team-building activity where the quorum has to construct something with limited materials — a shelter, a tower, a bridge — but everyone has to contribute a specific piece (like Bezaleel and Aholiab leading and everyone bringing different skills). Debrief by talking about how God calls us by name, gives us specific gifts, and needs all of us to build His kingdom.",
+		"Scapegoat campfire: If you can do an outdoor activity, have a small fire pit evening. Give each young man a piece of paper to write down something they want to let go of — a grudge, a regret, a bad habit. Read Leviticus 16:21-22 together, then let them throw their papers in the fire. No one shares unless they want to. Close with a testimony about the reality of Christ's Atonement and the fresh start it offers."
 	]
 }

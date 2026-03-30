@@ -1,30 +1,74 @@
 {
 	"weekNumber": 18,
-	"generatedAt": "2026-03-30T04:35:59.605Z",
-	"quickInsight": "God didn't just give the Ten Commandments as a list of rules — He gave them because He'd already rescued Israel, and He wanted to show them how to stay free.",
+	"generatedAt": "2026-03-30T05:08:05.800Z",
+	"quickStudy": {
+		"summary": "Moses has just led Israel through the Red Sea and into the wilderness, and now his father-in-law Jethro shows up with Moses' wife and two sons. Jethro watches Moses sit as judge for the people ALL day long — morning to night — settling every dispute. Jethro basically says, 'Dude, you're going to burn out. You can't do this alone.' He tells Moses to pick trustworthy men and delegate: rulers over thousands, hundreds, fifties, and tens. Moses listens and sets up a whole leadership structure.\n\nThen Israel arrives at Mount Sinai, and things get intense. God tells Moses that if the people keep His covenant, they'll be 'a peculiar treasure' and 'a kingdom of priests.' The people agree to the covenant, and then God shows up on the mountain — thunder, lightning, thick clouds, earthquake, fire, smoke, and the sound of a trumpet so loud the whole camp trembles. The people are told to prepare themselves and not to touch the mountain.\n\nThen comes the main event: God speaks the Ten Commandments directly to the people. Not through Moses — God Himself speaks. The people hear His voice, see the lightning, and are so terrified they back away and beg Moses to be the go-between. Moses tells them not to fear — God came so they could experience Him firsthand and take the covenant seriously.",
+		"mustRead": [
+			{
+				"reference": "Exodus 18:17-23",
+				"why": "Jethro's advice to Moses about delegation — a masterclass in leadership, asking for help, and not burning out. Super practical for anyone who tries to do everything themselves."
+			},
+			{
+				"reference": "Exodus 19:3-6",
+				"why": "God's covenant offer to Israel — this is where He tells them they can be 'a peculiar treasure' and 'a kingdom of priests.' This is identity-defining stuff."
+			},
+			{
+				"reference": "Exodus 20:1-17",
+				"why": "The Ten Commandments — God's own voice laying out the foundation of how to live. These aren't just rules; they're the terms of the covenant Israel just agreed to."
+			},
+			{
+				"reference": "Exodus 20:18-20",
+				"why": "The people's reaction to hearing God's voice — they're terrified, and Moses explains why God let them experience it. Really powerful moment about what it means to encounter God."
+			}
+		],
+		"quotableVerses": [
+			{
+				"reference": "Exodus 19:5-6",
+				"text": "Now therefore, if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me above all people: for all the earth is mine: And ye shall be unto me a kingdom of priests, and an holy nation."
+			},
+			{
+				"reference": "Exodus 18:18",
+				"text": "Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone."
+			},
+			{
+				"reference": "Exodus 20:3",
+				"text": "Thou shalt have no other gods before me."
+			},
+			{
+				"reference": "Exodus 20:12",
+				"text": "Honour thy father and thy mother: that thy days may be long upon the land which the Lord thy God giveth thee."
+			},
+			{
+				"reference": "Exodus 20:20",
+				"text": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not."
+			}
+		],
+		"context": "Mount Sinai was a pivotal moment — it's essentially God proposing a covenant to an entire nation, face to face. In the ancient world, covenants between a king and his people (called 'suzerainty treaties') followed a specific pattern: the king would say who he was, remind the people what he'd done for them, then lay out the terms. That's exactly what God does here — 'I am the Lord thy God, which have brought thee out of the land of Egypt' (here's who I am and what I've done), and then the Ten Commandments (here are the terms). Israel wasn't just getting a list of rules; they were entering a relationship with God as His covenant people.\n\nAlso worth noting: the fact that God spoke the commandments directly to the people — not through Moses — was unprecedented. He wanted them to hear His voice for themselves. The thunder, fire, earthquake, and trumpet weren't just special effects; they were signs of God's actual presence. When the people asked Moses to be the intermediary going forward, it wasn't because God wanted distance — it was because the people chose it. God's first preference was direct communication."
+	},
+	"quickInsight": "God doesn't give you commandments because He wants to control you — He gives them because He's inviting you into a covenant relationship where you become something extraordinary.",
 	"keyThemes": [
-		"You don't have to do everything alone — asking for help is wisdom, not weakness (Exodus 18)",
-		"God invites us to covenant with Him — it's a two-way relationship, not a one-sided demand (Exodus 19)",
-		"The Ten Commandments are about freedom, not restriction — they protect what matters most",
-		"Preparing yourself to receive revelation — being spiritually ready when God speaks (Exodus 19:10-11)",
-		"Leadership means serving others and sharing the load (Exodus 18:17-23)"
+		"You don't have to do everything alone — asking for help is wisdom, not weakness (Jethro's counsel)",
+		"God sees you as a 'peculiar treasure' — your identity and worth in His eyes",
+		"Commandments are covenant terms, not just rules — they're part of a relationship",
+		"Experiencing God for yourself — not just relying on someone else's testimony",
+		"Putting God first — what does 'no other gods' look like in 2026?"
 	],
 	"discussionQuestions": [
-		"Moses was burning out trying to do everything himself until Jethro stepped in (Exodus 18:17-18). When have you tried to handle everything on your own and what happened? Why is it so hard for guys to ask for help?",
-		"Before giving the Ten Commandments, God reminded Israel: 'I brought you out of Egypt' (Exodus 20:2). Why do you think He started with what He'd already done for them instead of jumping straight to the rules?",
-		"If you had to explain the Ten Commandments to someone who'd never heard of them — without sounding preachy — how would you describe what they're really about?",
-		"The Israelites had to prepare for three days before they could approach Mount Sinai (Exodus 19:10-11). What does 'preparing yourself' to hear from God look like for a teenager in 2026?",
-		"Which of the Ten Commandments do you think is the hardest for people your age to keep — and which one do you think would make the biggest difference if everyone actually lived it?"
+		"Moses was trying to do everything himself until Jethro called him out. When in your life do you try to handle everything on your own instead of asking for help? Why is it hard to ask?",
+		"God told Israel they'd be 'a peculiar treasure' — which literally means something rare and valued that a king keeps for himself. How does it change the way you see yourself to know God sees you that way?",
+		"The Ten Commandments start with 'Thou shalt have no other gods before me.' What are the 'other gods' that compete for your attention and loyalty today — things like social media, gaming, popularity, money?",
+		"The Israelites heard God's voice and were scared — they asked Moses to talk to God for them instead. If you could hear God speak directly to you, would you want to? Why do you think they backed away?",
+		"Commandments sometimes feel like restrictions, but God framed them as part of a covenant — a two-way promise. How does thinking of commandments as 'covenant terms' instead of 'rules' change how you feel about keeping them?"
 	],
 	"teachingIdeas": [
-		"Start class by giving one person an impossible task alone (stack 20 cups in 30 seconds, solve a puzzle, etc.), then let the whole quorum help. Connect it to Jethro telling Moses he'd wear himself out doing everything solo (Exodus 18). Ask: where in your life are you trying to be a one-man team?",
-		"Write the Ten Commandments on the board but frame them as 'What is God protecting?' instead of 'What can't I do?' — for example, 'Thou shalt not steal' protects trust and property; 'Honour thy father and mother' protects families. Let the guys figure out what each commandment is really guarding.",
-		"Show a short clip of a coach giving a pregame speech or a captain rallying a team. Compare it to Exodus 19:4-6 where God basically says 'Here's what I've done for you, here's what we can be together.' God's pitch to Israel sounds more like a team captain than a dictator — and He gave them a choice.",
-		"Have each young man pick the one commandment they think the world needs most right now and share why. No wrong answers — just let them reason through it. You'll be surprised how thoughtful they get when you let them own the conversation."
+		"Start class by asking someone to hold a heavy backpack (loaded with books). Let them struggle for a minute, then ask the class what Jethro would say. Read Exodus 18:17-18 and talk about how asking for help — from friends, leaders, parents, God — isn't weakness. Have each person write down one thing they've been carrying alone that they could share with someone this week.",
+		"Write the Ten Commandments on the board but frame them as a 'team code' — like a locker room code of conduct for a championship team. Ask: 'If God were a coach building a winning team, why would these be His rules?' Let them discuss which ones are hardest to keep and which ones they think matter most. The point: these aren't arbitrary restrictions — they're what a championship-caliber life looks like.",
+		"Show two phones (or draw them on the board): one with a cracked screen, low battery, 47 open apps, and 200 unread notifications. The other is clean, charged, and focused. Ask: 'Which phone is ready to receive an important message?' Connect to Exodus 19 where Israel spent three days preparing to meet God. What does it look like to 'prepare' to hear from God — in sacrament meeting, in prayer, when reading scriptures?",
+		"Read Exodus 19:5-6 aloud slowly. Then pull out something you personally value — a watch, a keepsake, a photo. Explain what 'peculiar treasure' actually means: not 'weird,' but 'the king's personal, prized possession.' Tell them: 'That's how God describes you. Not the whole world generically — you, specifically, when you choose to covenant with Him.' Let that land. Then ask each of them to think about whether they believe that about themselves."
 	],
 	"activities": [
-		"Leadership relay challenge: set up an activity where one person has to delegate tasks to the rest of the quorum to accomplish a goal (like building something, completing a scavenger hunt, or running an obstacle course). Debrief with Exodus 18 — what made the leader effective? What made it hard to trust others with your part of the job?",
-		"Ten Commandments for our quorum: as a group, come up with 5-10 'quorum commitments' — not church rules, but standards they set for themselves about how they'll treat each other, show up, and have each other's backs. Write them on a poster and have everyone sign it. Connect it to Israel covenanting with God at Sinai.",
-		"Service blitz: pick a simple service project the quorum can knock out in one activity night — yard work for a neighbor, assembling care kits, cleaning up a park. Tie it to Exodus 19:5-6 where God calls Israel 'a kingdom of priests' — priests serve. That's who we're becoming."
+		"Delegation Challenge: Split the quorum into two teams. Give each team a complex task (like building something with limited supplies, solving a series of puzzles, or planning a fake event with lots of details). One team has to have ONE person do everything while others watch. The other team can delegate roles. Debrief: What happened? How did it feel to carry it alone vs. share the load? Connect to Jethro's counsel and to how the Aaronic Priesthood is organized with quorum presidencies — they're not decorative, they're Jethro's principle in action.",
+		"Covenant Cards: Give each young man an index card. On one side, they write one commitment they want to make this week — something specific and doable (not 'be better' but 'read 1 chapter every night' or 'compliment someone at school every day'). On the other side, write Exodus 19:5 — 'if ye will obey my voice indeed, and keep my covenant, then ye shall be a peculiar treasure unto me.' They keep the card in their pocket or on their phone case as a reminder. Follow up next week.",
+		"Mountain Experience Night: Do an outdoor activity (hike, fire pit, star gazing) and tie it to the Sinai experience. At some point during the activity, have a quiet moment — read Exodus 19:16-19 aloud and let them sit in silence for 2-3 minutes. Then talk about what it means to 'meet God' in their own lives — when have they felt His presence? What were they doing? How can they create more of those moments?"
 	]
 }

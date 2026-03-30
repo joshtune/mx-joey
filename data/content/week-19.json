@@ -1,30 +1,74 @@
 {
 	"weekNumber": 19,
-	"generatedAt": "2026-03-30T04:36:47.252Z",
-	"quickInsight": "When the Israelites said 'All that the Lord hath said will we do,' they weren't just agreeing to rules — they were choosing whose team they were on, and that same choice is in front of you every single day.",
+	"generatedAt": "2026-03-30T05:09:34.285Z",
+	"quickStudy": {
+		"summary": "After giving the Ten Commandments in Exodus 20, God keeps going. Exodus 21–23 is sometimes called the 'Book of the Covenant' — it's basically God spelling out what it looks like to actually live His commandments day to day. These aren't vague ideals; they're specific rules about how to treat people: servants, neighbors, strangers, the poor, even your enemy's lost donkey. You get the famous 'eye for eye, tooth for tooth' law (which was actually meant to limit revenge, not encourage it — more on that below). There are laws about honesty in court, resting on the Sabbath, and protecting people who are vulnerable — widows, orphans, foreigners. God basically says: 'If you're going to be My people, here's what that looks like in real life.'\n\nThen Exodus 24 is the big moment. Moses comes down, reads all these laws to the people, and they say — together, out loud — 'All that the Lord hath said will we do, and be obedient.' Moses builds an altar, sacrifices are offered, and he sprinkles blood on the altar and on the people to seal the covenant. It's like a formal agreement signed in blood. Then something incredible happens: Moses, Aaron, Nadab, Abihu, and seventy elders of Israel actually go up the mountain and see God. Under His feet is something like a pavement of sapphire, clear as the sky. They eat and drink in His presence. After that, Moses goes up even higher into the cloud alone and stays on the mountain for forty days.",
+		"mustRead": [
+			{
+				"reference": "Exodus 23:1-9",
+				"why": "God's instructions on honesty, justice, and not following the crowd — incredibly relevant to peer pressure and doing what's right even when it's hard"
+			},
+			{
+				"reference": "Exodus 24:3-8",
+				"why": "The covenant ceremony — this is the moment Israel commits to God, and it mirrors baptismal and temple covenants we make today"
+			},
+			{
+				"reference": "Exodus 24:9-12",
+				"why": "Seventy elders literally see God and eat in His presence — one of the most stunning theophanies in all of scripture"
+			},
+			{
+				"reference": "Exodus 22:21-27",
+				"why": "God's heart for the vulnerable — strangers, widows, orphans, the poor. This is the 'why' behind the commandments: love people."
+			}
+		],
+		"quotableVerses": [
+			{
+				"reference": "Exodus 23:2",
+				"text": "Thou shalt not follow a multitude to do evil; neither shalt thou speak in a cause to decline after many to justify him that is wicked."
+			},
+			{
+				"reference": "Exodus 24:7",
+				"text": "And he took the book of the covenant, and read in the audience of the people: and they said, All that the Lord hath said will we do, and be obedient."
+			},
+			{
+				"reference": "Exodus 22:21",
+				"text": "Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt."
+			},
+			{
+				"reference": "Exodus 23:20",
+				"text": "Behold, I send an Angel before thee, to keep thee in the way, and to bring thee into the place which I have prepared."
+			},
+			{
+				"reference": "Exodus 24:10",
+				"text": "And they saw the God of Israel: and there was under his feet as it were a paved work of a sapphire stone, and as it were the body of heaven in his clearness."
+			}
+		],
+		"context": "The 'eye for eye' law (Exodus 21:24) sounds brutal to modern ears, but in the ancient world it was actually progressive — it was a ceiling on punishment, not a floor. In surrounding cultures, if someone from a powerful family was wronged by someone from a weaker family, the punishment could be wildly disproportionate. God was saying: the punishment must match the crime, no more. Justice, not vengeance. Jesus later elevated this even further in the Sermon on the Mount by teaching to turn the other cheek.\n\nThe covenant ceremony in Exodus 24 is deeply significant for Latter-day Saints. Moses sprinkles blood on both the altar (representing God) and on the people — binding them together. This is a two-way covenant, just like baptism and the sacrament. The people's response — 'All that the Lord hath said will we do, and be obedient' — is essentially the same promise we make every Sunday when we take the sacrament. And the fact that mortal men could then go up and see God and eat in His presence? That's the whole point of covenants: they bring us into God's presence. The sapphire pavement under His feet suggests a throne room of unimaginable beauty — and these ordinary people were invited in."
+	},
+	"quickInsight": "God doesn't just say 'be good' — He shows you exactly what good looks like in the everyday moments, and then He invites you to come into His presence because of it.",
 	"keyThemes": [
-		"Making and keeping covenants — saying 'I'm in' and meaning it",
-		"Taking responsibility for how your choices affect others",
-		"Standing up for people who can't stand up for themselves",
-		"God's laws aren't restrictions — they're the playbook for a life that actually works",
-		"Seeing God's presence in your life when you keep your commitments"
+		"Not following the crowd when the crowd is wrong",
+		"Covenants are two-way promises — God commits to us just as we commit to Him",
+		"Standing up for people who are vulnerable or left out",
+		"Justice means fairness, not revenge",
+		"Living your faith in the small, everyday choices — not just the big moments"
 	],
 	"discussionQuestions": [
-		"In Exodus 24:7, the Israelites said 'All that the Lord hath said will we do, and be obedient.' What's the difference between saying you'll do something and actually committing to it — like, what does real commitment look like at school or on a team?",
-		"These chapters have a lot of laws about making things right when you've wronged someone (restitution). Why do you think God cares so much about us fixing things when we mess up, instead of just saying sorry and moving on?",
-		"Exodus 22:21–27 talks about protecting strangers, widows, and orphans — basically anyone who's vulnerable. Who are the 'vulnerable' people in your world (at school, online, in your friend group), and what does it look like to have their back?",
-		"God told Moses He'd send blessings and protection if Israel kept the covenant (Exodus 23:20–26). Have you ever experienced blessings from keeping a commitment — even when it was hard or nobody was watching?",
-		"The Israelites had just come out of slavery and God immediately gave them a code for how to treat each other fairly. Why do you think that was one of the first things He addressed?"
+		"Exodus 23:2 says 'thou shalt not follow a multitude to do evil.' When's a time you felt pressure to go along with something you knew was wrong? What made it hard to push back — and what would have made it easier?",
+		"The Israelites said 'All that the Lord hath said will we do, and be obedient' — and they meant it in the moment. We renew our covenants every Sunday at the sacrament. Why do you think God set it up so we recommit every week instead of just once?",
+		"God spends a lot of time in these chapters talking about how to treat strangers, the poor, and people who are different. Who are the 'strangers' in your school or your life — people who might feel like outsiders? What would it look like to follow God's law about how to treat them?",
+		"In Exodus 24, after the people make their covenant, the elders get to go up and literally see God. What do you think that teaches about what covenants are supposed to lead to? How does that connect to the temple?",
+		"The 'eye for eye' law was really about making sure punishment was fair — not too much, not too little. When someone wrongs you (a friend talks behind your back, someone cuts you from the team, someone's rude online), what does a 'fair' response look like versus an unfair one?"
 	],
 	"teachingIdeas": [
-		"Start class by asking everyone to make a quick promise out loud — something small like 'I promise I'll hold this pen for the whole lesson.' See who keeps it. Then read Exodus 24:3,7 and talk about what it means to say 'I will do' versus actually doing. Covenants aren't just words — they're who you become.",
-		"Use a sports analogy: a coach's playbook isn't there to ruin your fun — it's how you win. Walk through a few of the laws in Exodus 21–23 and ask the guys to figure out the principle behind each one. Help them see that God's 'rules' are really His strategy guide for a life that works.",
-		"Tell a story (personal or from someone you know) about a time you had to make something right with someone — not just apologize, but actually fix it. Connect it to the restitution laws in Exodus 22. Real repentance has action behind it.",
-		"Show Exodus 24:9–11 where Moses, Aaron, and the elders actually see God and eat a meal in His presence. Ask: what would it be like to sit down and eat with God? Then connect it to the sacrament — every Sunday, they're invited to that same kind of sacred, covenant meal."
+		"Start by reading Exodus 23:2 out loud and ask: 'How many of you have ever been in a group chat or a locker room where people started saying stuff you knew was wrong, but you didn't speak up?' Let them sit with that. Then talk about how God told the Israelites — thousands of years before social media — that following the crowd into something wrong is never okay. Ask them: what would it cost you to push back? What does it cost you not to?",
+		"Bring two pieces of paper. On one, write 'I will ___' and on the other write 'God will ___.' Have the young men fill in both sides based on what they find in Exodus 24:3-8 and their baptismal covenants. The point: covenants aren't one-sided. God doesn't just ask us to do hard things and then sit back. He promises to send an angel before us, to fight our battles, to bring us into the place He's prepared. Make it visual — tape both papers together to show it's one agreement, two parties.",
+		"Tell the story of Exodus 24:9-11 dramatically — paint the picture. These guys walk up the mountain, and they SEE GOD. Under His feet is sapphire, clear as the sky. And then — they eat. They have a meal with God. Ask: why do you think God feeds them? Connect it to the sacrament — every Sunday we're invited to a meal where we're in the Lord's presence, renewing our covenant. It's not just crackers and water. It's Exodus 24.",
+		"Object lesson: bring a contract or terms-of-service printout (like from an app). Ask if anyone actually reads the terms before clicking 'I agree.' Then read Exodus 24:7 — the Israelites actually listened to every word of the covenant before they agreed. Challenge: this week, when you take the sacrament, actually listen to the prayers. Know what you're agreeing to."
 	],
 	"activities": [
-		"Covenant Challenge Week: Each young man picks one specific commitment to keep perfectly for 7 days — scripture study, no gossip, complimenting someone daily, phone off by 10pm — whatever they choose. At the next activity, share how it went. The point isn't perfection, it's learning what it feels like to be 'all in' on something.",
-		"Service Blitz for the Vulnerable: As a quorum, identify someone in the ward or neighborhood who could use help — an elderly member, a single parent, a new family. Plan and execute a service project during mutual. Connect it back to Exodus 22:21–27 and God's charge to look out for people who need it.",
-		"Restitution Role-Play: Set up a few real-life scenarios (you broke a friend's trust, you said something hurtful online, you let a teammate down) and have the guys work through what real restitution looks like — not just 'sorry,' but what would you actually do to make it right? Make it practical and specific."
+		"Covenant Challenge Night: Have each young man write a personal 'covenant' with himself — one specific thing he will commit to this month (daily scripture reading, being kinder to a sibling, staying off his phone after 10 PM, etc.) and what he hopes God will help him with in return. Seal them in envelopes. Open them at the end of the month. Make it personal and private — no sharing required.",
+		"Stand-Up Scenarios: Set up role-play scenarios where the group is pressuring one person to do something wrong (nothing heavy — stuff like cheating on a test, making fun of someone, sharing something inappropriate). Practice actually saying the words out loud to push back. Most guys know what's right; they just haven't rehearsed saying it. Make it fun — let them be dramatic — but the point is real: practice standing alone before you have to do it for real.",
+		"Serve the 'Strangers': Plan a simple service activity based on Exodus 22:21-22. Identify someone in the ward or community who might feel like an outsider — a new family, an elderly neighbor, someone who hasn't been to church in a while — and do something tangible for them as a quorum. Deliver something, write a note, show up. Make it about the person, not about checking a box."
 	]
 }

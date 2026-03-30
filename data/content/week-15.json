@@ -1,30 +1,70 @@
 {
 	"weekNumber": 15,
-	"generatedAt": "2026-03-30T04:34:18.915Z",
-	"quickInsight": "General Conference is like getting a personal text from God — but only if you're actually paying attention when it comes through.",
+	"generatedAt": "2026-03-30T05:02:57.808Z",
+	"quickStudy": {
+		"summary": "This week is General Conference — a twice-a-year event where the prophet, apostles, and other Church leaders speak directly to the whole Church. Think of it like the biggest group text from heaven you'll get all year. Over two days (Saturday and Sunday, April 4-5), there are five sessions of talks, prayers, and music. Each talk is usually 10-15 minutes and covers something these leaders feel inspired to share right now — not recycled stuff from last year, but messages the Lord wants His people to hear in this specific moment.\n\nGeneral Conference has been happening since the Church was organized on April 6, 1830 — almost 196 years ago. Back then, members traveled for days on horseback or by wagon to hear the prophet speak. Now you can watch it on your phone in your pajamas. The format has changed, but the purpose hasn't: prophets and apostles share what God wants us to know right now. Your job isn't just to watch — it's to listen for the messages that are meant specifically for you.",
+		"mustRead": [
+			{
+				"reference": "Amos 3:7",
+				"why": "This is the foundational promise — God doesn't leave us guessing. He reveals His plans through prophets. That's literally what Conference is."
+			},
+			{
+				"reference": "Doctrine and Covenants 1:37-38",
+				"why": "The Lord says whether His servants speak by His Spirit or by their own voice, it's the same. When you hear a prophet at Conference, you're hearing the Lord's words."
+			},
+			{
+				"reference": "Doctrine and Covenants 21:4-6",
+				"why": "This was given the day the Church was organized (April 6, 1830). It tells us to receive the prophet's words 'as if from mine own mouth' — and promises that doing so will scatter darkness."
+			},
+			{
+				"reference": "1 Nephi 19:23",
+				"why": "Nephi's principle of 'likening' scriptures to ourselves. This is exactly what you should do with every Conference talk — ask 'what does this mean for ME?'"
+			}
+		],
+		"quotableVerses": [
+			{
+				"reference": "Amos 3:7",
+				"text": "Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets."
+			},
+			{
+				"reference": "Doctrine and Covenants 1:38",
+				"text": "What I the Lord have spoken, I have spoken, and I excuse not myself; and though the heavens and the earth pass away, my word shall not pass away, but shall all be fulfilled, whether by mine own voice or by the voice of my servants, it is the same."
+			},
+			{
+				"reference": "Doctrine and Covenants 21:6",
+				"text": "For by doing these things the gates of hell shall not prevail against you; yea, and the Lord God will disperse the powers of darkness from before you, and cause the heavens to shake for your good, and his name's glory."
+			},
+			{
+				"reference": "1 Nephi 19:23",
+				"text": "And I did read many things unto them which were written in the books of Moses; but that I might more fully persuade them to believe in the Lord their Redeemer I did read unto them that which was written by the prophet Isaiah; and I did liken all scriptures unto us, that it might be for our profit and learning."
+			}
+		],
+		"context": "General Conference traces back to the very founding of the Church. On April 6, 1830 — the day the Church was organized — a small group gathered at the Whitmer farm in Fayette, New York. That gathering was essentially the first General Conference. In the early days, conferences were held multiple times a year and members would sometimes travel hundreds of miles to attend. Today, Conference is broadcast in over 100 languages and reaches millions of people in nearly every country on earth.\n\nHere's something most people don't think about: Conference talks aren't off-the-cuff. These leaders typically spend weeks or even months preparing a single 12-minute talk. Many of them have described feeling directed by the Spirit to change their topic — sometimes days before they speak — because the Lord had a different message in mind. President Nelson has talked about how the Lord is 'in charge' of Conference, meaning even the order of speakers and topics is inspired. So when you hear a talk that hits you right in the chest? That's not a coincidence."
+	},
+	"quickInsight": "General Conference is God's way of coaching you in real time — the prophet and apostles aren't talking about ancient history, they're talking about what you need to hear right now, this week, in your life.",
 	"keyThemes": [
-		"Listening for personal revelation during Conference",
-		"Sustaining and following living prophets and apostles",
-		"Finding answers to your own questions through Conference talks",
-		"Acting on what you hear — not just hearing it",
-		"The courage to stand as a witness even when it's not popular"
+		"Living prophets speak for God today — not just in ancient times",
+		"Personal revelation: hearing the messages meant specifically for you",
+		"Acting on what you hear — conference without follow-through is just a long weekend",
+		"The courage to stand for truth even when the world pushes back",
+		"Jesus Christ is at the center of everything the prophets teach"
 	],
 	"discussionQuestions": [
-		"If you could sit down with any General Authority and ask one question about your life right now, what would it be — and did any talk this weekend come close to answering it?",
-		"Why do you think God uses regular people (prophets, apostles) to deliver His messages instead of just speaking to everyone directly?",
-		"What's the difference between hearing a Conference talk and actually letting it change something about your week?",
-		"Have you ever had a moment during Conference where something hit different — like it was meant specifically for you? What was that like?",
-		"How do you decide which voices to trust — whether it's a prophet at the pulpit, a friend at school, or someone on social media?"
+		"If you could ask the prophet one question about your life right now, what would it be? What if Conference already has the answer and you just need to listen for it?",
+		"Why do you think God uses prophets to talk to us instead of just putting a message in the sky for everyone to see? What does that tell us about how He works?",
+		"Have you ever heard something in Conference that felt like it was meant specifically for you — like someone read your journal? What did you do about it?",
+		"If a friend who wasn't a member asked you 'Why do you watch Conference?', what would you actually say? Not the Sunday School answer — your real answer.",
+		"What's harder: hearing what God wants you to do, or actually doing it? Why do you think there's usually a gap between the two?"
 	],
 	"teachingIdeas": [
-		"Before class, have each young man write down one real question or challenge they're dealing with right now — fold it up, keep it private. After discussing Conference themes, ask them to look at their paper again and share (if comfortable) whether anything from Conference spoke to that question. This makes it personal without forcing vulnerability.",
-		"Play 30-second clips from 2-3 Conference talks and have the quorum rate them 'skip, save, or share' like they would a song. Then discuss why certain messages hit harder than others and what that says about how the Spirit communicates with them individually.",
-		"Use the analogy of a coach's halftime speech: General Conference is God's halftime talk to us. The game is still going. The coach isn't yelling — he's adjusting the game plan, reminding you what you're capable of, and sending you back out. Ask: what adjustments did the prophet ask us to make this week?",
-		"Have each young man pick ONE sentence from any Conference talk that stuck with them. Write it on a sticky note and put it somewhere they'll see it every day this week — bathroom mirror, phone case, locker. Follow up at mutual to see if it made a difference."
+		"Conference Bingo / Talk Tracker: Before Conference starts, give each young man a card with themes or phrases to listen for (repentance, Jesus Christ, temple, courage, etc.). During or after Conference, have them share which talks hit the themes and what stood out. This turns passive watching into active listening — and makes it way more engaging.",
+		"The Coach Analogy: Ask the quorum — if your basketball or football coach called a special team meeting to go over game film and strategy, would you skip it? Would you scroll your phone the whole time? General Conference is God's coaching session. The prophet has watched the 'game film' of the world and he's telling you exactly what adjustments to make. You can ignore the coach, but don't be surprised when you get benched.",
+		"One Talk, One Change: After Conference, have each young man pick ONE talk that hit them the hardest and commit to ONE specific thing they'll do differently this week because of it. Write it on a card. Follow up the next Sunday. The power isn't in hearing all 30+ talks — it's in actually doing something about one of them.",
+		"Prophet Playlist: Show a 2-3 minute highlight clip from a recent Conference talk that's especially relevant to teens (topics like identity, social media, peer pressure, future). Pause and discuss: 'What is he really saying here? How does this apply to your Monday morning?' Make the prophets feel like real people talking to real teens, not distant figures at a podium."
 	],
 	"activities": [
-		"Conference Challenge Night: At mutual, set up stations where pairs of young men get a Conference talk summary and have 3 minutes to create a 60-second TikTok-style explanation of the talk's main point for their age group. Vote on the best one. Reinforces actually processing what was taught — not just sitting through it.",
-		"Prophet Scavenger Hunt: Give teams a list of specific principles or promises from this Conference and have them race to find the exact talk, speaker, and quote. First team to match them all wins. Builds familiarity with Conference content in a competitive way they'll actually enjoy.",
-		"Goal-Setting Fireside: Around a fire pit or in a casual setting, have each young man share one thing from Conference they want to apply before next General Conference in October. Write them on cards, seal them in envelopes, and commit to opening them together in six months to see how they did."
+		"Conference Watch Party: Host a Saturday session watch party at someone's home or the church. Provide snacks, bean bags, and a shared Google Doc or whiteboard where the young men can write down quotes or impressions in real time. Make it social and low-key — the goal is to make Conference feel like something they do together, not just something their parents make them sit through.",
+		"Talk-to-Action Challenge: After Conference, each young man picks one talk and creates a simple 'action plan' — what the talk taught, one thing they'll do about it, and who they'll report back to. Pair them up as accountability partners. Check in at mutual on Wednesday. The point: Conference isn't just a weekend event, it's a launching pad for the whole week.",
+		"Conference Quote Wall: Set up a poster or whiteboard at church where the young men can write their favorite Conference quotes throughout the week. By the following Sunday, you'll have a visual reminder of what the Lord wanted them to hear. Take a photo and send it to the quorum group chat as a reminder."
 	]
 }

@@ -7,9 +7,27 @@ export interface Lesson {
 	book: string;
 }
 
+export interface ScriptureQuote {
+	reference: string;
+	text: string;
+}
+
+export interface MustReadPassage {
+	reference: string;
+	why: string;
+}
+
+export interface QuickStudy {
+	summary: string;
+	mustRead: MustReadPassage[];
+	quotableVerses: ScriptureQuote[];
+	context: string;
+}
+
 export interface GeneratedContent {
 	weekNumber: number;
 	generatedAt: string;
+	quickStudy: QuickStudy;
 	discussionQuestions: string[];
 	teachingIdeas: string[];
 	activities: string[];

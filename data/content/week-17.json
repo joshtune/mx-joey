@@ -1,30 +1,70 @@
 {
 	"weekNumber": 17,
-	"generatedAt": "2026-03-30T04:35:14.647Z",
-	"quickInsight": "When you feel trapped between impossible odds and no way forward, God can still make a path — you just have to keep walking.",
+	"generatedAt": "2026-03-30T05:06:32.054Z",
+	"quickStudy": {
+		"summary": "This is one of the most epic stretches in the entire Old Testament. The Israelites have just left Egypt, but Pharaoh changes his mind and sends his whole army after them. The people are literally trapped — the Red Sea in front of them, chariots behind them. They panic and start blaming Moses. But God tells Moses to stretch out his rod, and the sea parts. The Israelites walk through on dry ground with walls of water on both sides. When the Egyptians follow, God lets the sea crash back down and wipes out the entire army. Moses and the people sing an incredible victory song praising God.\n\nAfter that, reality hits. They're in the wilderness and the water they find is bitter (undrinkable). God shows Moses a tree to throw into the water and it becomes sweet. Then they run out of food and start complaining again. God sends quail in the evening and this mysterious bread called manna every morning — but there's a catch: you can only gather what you need for one day. If you hoard it, it rots and gets wormy. On the sixth day you gather double because none comes on the Sabbath. Finally, they run out of water again at Rephidim. God tells Moses to strike a rock with his staff, and water pours out. Then the Amalekites attack, and Joshua leads the fight while Moses stands on a hill with his hands raised. When his arms are up, Israel wins. When they drop, they lose. Aaron and Hur literally hold Moses' arms up until sunset, and Israel wins the battle.",
+		"mustRead": [
+			{
+				"reference": "Exodus 14:10-16",
+				"why": "The moment of crisis — Israel panics, Moses speaks one of the most powerful lines in scripture ('Fear ye not, stand still'), and God gives the command to move forward through the sea"
+			},
+			{
+				"reference": "Exodus 14:21-29",
+				"why": "The actual parting of the Red Sea — the most dramatic miracle in the Old Testament, and the moment Israel's deliverance becomes real"
+			},
+			{
+				"reference": "Exodus 16:4-5, 14-20",
+				"why": "The manna instructions — God's daily-bread system that teaches trust, obedience, and not hoarding. The rules matter as much as the miracle."
+			},
+			{
+				"reference": "Exodus 17:8-13",
+				"why": "The battle with Amalek — one of the best visual lessons in all of scripture about needing other people to hold you up when you can't do it alone"
+			}
+		],
+		"quotableVerses": [
+			{
+				"reference": "Exodus 14:13",
+				"text": "And Moses said unto the people, Fear ye not, stand still, and see the salvation of the Lord, which he will shew to you to day: for the Egyptians whom ye have seen to day, ye shall see them again no more for ever."
+			},
+			{
+				"reference": "Exodus 14:14",
+				"text": "The Lord shall fight for you, and ye shall hold your peace."
+			},
+			{
+				"reference": "Exodus 15:2",
+				"text": "The Lord is my strength and song, and he is become my salvation: he is my God, and I will prepare him an habitation; my father's God, and I will exalt him."
+			},
+			{
+				"reference": "Exodus 16:4",
+				"text": "Then said the Lord unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no."
+			}
+		],
+		"context": "The Red Sea crossing wasn't just a cool miracle — it was the defining moment of Israelite identity for the rest of the Old Testament. Every time a prophet wants to remind Israel that God keeps His promises, they point back to this event. The Hebrew word used for the sea is 'Yam Suph,' which actually means 'Sea of Reeds,' and scholars debate the exact location, but the text is clear that the water was deep enough to drown an army. The east wind that blew all night (Exodus 14:21) shows God working through natural forces in supernatural timing.\n\nThe manna is fascinating — the word 'manna' likely comes from the Hebrew 'man hu,' meaning 'What is it?' because that's literally what the Israelites said when they first saw it. It appeared every morning like frost on the ground and tasted like wafers made with honey. The whole system was designed to teach daily dependence on God — you couldn't stockpile it, you couldn't skip a day, and you had to trust that tomorrow's portion would come. It's basically God teaching an entire nation to pray 'Give us this day our daily bread' — centuries before Jesus would use those exact words."
+	},
+	"quickInsight": "God doesn't always remove the hard thing in front of you — sometimes He parts it and asks you to walk straight through it.",
 	"keyThemes": [
-		"Trusting God when the situation looks impossible (Red Sea moment)",
-		"God provides what you need, when you need it — not always in advance (manna daily)",
-		"You can't do hard things alone — everyone needs an Aaron and Hur holding them up",
-		"Complaining vs. trusting: how your attitude shapes your experience",
-		"Moving forward even when you can't see the whole path"
+		"Trusting God when you're scared and can't see how things will work out",
+		"Daily dependence — gathering what you need one day at a time instead of trying to control everything",
+		"We need other people to hold us up when we're struggling",
+		"God provides, even when we complain and doubt",
+		"Moving forward in faith even when the path looks impossible"
 	],
 	"discussionQuestions": [
-		"The Israelites were literally trapped — ocean in front, army behind. When have you felt stuck between two bad options? What did you do?",
-		"God sent manna every day but told them not to hoard it. Why do you think He didn't just give them a month's supply? What does that teach about how God helps us?",
-		"In Exodus 17, Moses couldn't keep his arms up alone — Aaron and Hur had to hold them. Who are the people holding you up right now? Who are you holding up?",
-		"The Israelites had just watched God split an ocean, and a few days later they were complaining about water. Why is it so easy to forget what God has done for us? How do you keep from forgetting?",
-		"God told Moses to walk toward the sea BEFORE it parted. What's something in your life right now where you might need to take a step forward before you can see how it'll work out?"
+		"The Israelites had just watched God send ten plagues on Egypt, and then the second Pharaoh's army shows up they panic. Why do you think it's so easy to forget what God has already done for us when the next hard thing comes?",
+		"God told the Israelites they could only gather enough manna for one day — no stockpiling. What would it look like in your life to trust God with tomorrow instead of trying to control everything yourself?",
+		"When Moses' arms got tired, Aaron and Hur held them up. Who in your life holds you up when you're struggling? And who are you holding up?",
+		"Moses told the people to 'stand still and see the salvation of the Lord,' but then God told them to 'go forward.' When is it time to be patient and when is it time to move? How do you know the difference?",
+		"The Israelites kept complaining even after miracle after miracle. Before we judge them too hard — what are the things in your life where God has clearly shown up but you still worry about the next thing?"
 	],
 	"teachingIdeas": [
-		"Object lesson — The trust fall: Have a young man stand with his back to the group and fall backward. Connect it to Exodus 14:13-14 — 'Stand still and see the salvation of the Lord.' Sometimes faith means stepping into the unknown and trusting someone has your back.",
-		"The manna experiment: Give each young man a handful of small candies. Tell half of them they can save theirs for later, and give the other half the rule that they have to eat them now but they'll get more next week. Discuss what it feels like to trust that more is coming vs. wanting to stockpile. Connect to how God asks us to rely on Him daily — prayers, scripture, sacrament — not just bank up spiritual experiences.",
-		"Arms up challenge: Have a young man hold his arms straight out to the sides and time how long he can last (usually about 2 minutes). Then have two friends hold his arms up. Read Exodus 17:12 and talk about how we literally cannot win our battles alone — priesthood quorums, friends, family, and leaders exist for this reason.",
-		"Phone parallel: Pull up a phone battery icon. 'Your phone doesn't charge once and last forever — you plug it in every night.' Manna worked the same way. So does your testimony. You can't coast on last year's spiritual experience. What are you doing daily to recharge?"
+		"The Arms-Up Challenge: Have two guys come up front and hold their arms straight out to the sides for as long as they can. Time them. Their arms will start shaking after about 90 seconds. Then have two friends come hold their arms up — suddenly they can go way longer. Read Exodus 17:11-12 and talk about how we literally need people in our corner. Ask: who are your Aaron and Hur?",
+		"The Daily Bread Experiment: Bring a loaf of bread and give each person one slice. Tell them that's all they get for today — but tomorrow there will be more. Then ask: what if I told you there's no bread tomorrow? Watch how fast people want to grab extra. Connect it to the manna story and how God is asking us to trust Him with what comes next instead of hoarding out of fear.",
+		"Red Sea Moments: Have each quorum member write down (privately) one thing in their life right now that feels like a 'Red Sea' — something in front of them that seems impossible. Read Exodus 14:13-14 together. Then talk about what it means that God sometimes parts the sea and sometimes calms it — but He always makes a way. You could have them fold the paper and keep it in their scriptures as a reminder.",
+		"Before and After: Put two columns on the board — 'Before the Red Sea' and 'After the Red Sea.' Have them describe how the Israelites felt in each moment. Then make it personal: what's something in your life that felt impossible at the time but looking back, you can see God was in it? Bearing testimony here as a leader can be powerful."
 	],
 	"activities": [
-		"Trust walk obstacle course: Set up an outdoor obstacle course at mutual. Blindfold each young man and have a partner guide him through using only voice directions. Debrief afterward — what was hard about trusting? When did you want to peek? Connect to following God's guidance even when you can't see the full picture.",
-		"Hold up your brother challenge: Pair up for a physical activity (wall sits, plank holds, or carrying something heavy together). The rule: if one person quits, both are done. Afterward, discuss what it felt like to keep going because someone was counting on you — and connect to Aaron and Hur holding up Moses' arms in Exodus 17.",
-		"Write a 'Red Sea moment' on a card — a time when something seemed impossible but worked out, or something you're facing now that feels impossible. Collect them anonymously and read a few aloud. As a quorum, commit to praying for each other's Red Sea moments this week."
+		"Trust Walk Relay: Set up an obstacle course at mutual. One person is blindfolded and has to navigate through it with only their partner's voice guiding them. Switch roles. Debrief afterward — what was it like to not see the path? What made you trust (or not trust) your guide? Connect to Israel walking into the sea on faith and trusting God's voice through Moses.",
+		"Quorum Service Blitz — Hold Each Other Up: Plan a quick service project where the quorum helps someone in the ward — yard work, moving furniture, whatever is needed. Frame it around the Aaron-and-Hur principle: we show up for people when their arms are tired. Afterward, challenge each quorum member to find one person this week whose 'arms are heavy' and do something to help.",
+		"Manna Journal Challenge: Give each young man a small notepad or index card. Challenge them to write down one thing God provided for them each day this week — could be small (a good conversation, passing a test, feeling peace). Bring them back next Sunday and share a few. The point: when you start looking for daily manna, you realize God is feeding you every single day."
 	]
 }

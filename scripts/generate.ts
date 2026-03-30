@@ -19,6 +19,12 @@ interface Lesson {
 interface GeneratedContent {
 	weekNumber: number;
 	generatedAt: string;
+	quickStudy: {
+		summary: string;
+		mustRead: { reference: string; why: string }[];
+		quotableVerses: { reference: string; text: string }[];
+		context: string;
+	};
 	discussionQuestions: string[];
 	teachingIdeas: string[];
 	activities: string[];
@@ -80,9 +86,23 @@ Generate content that this leader can use throughout the week — during Sunday 
 - Encouraging and uplifting, not preachy
 - Practical — things they can actually do this week
 
+IMPORTANT: Include a "quickStudy" section so the teacher can get grounded in the actual scriptures quickly — even if he only has 5 minutes. The summary should tell what ACTUALLY HAPPENS in these chapters (the narrative, the events, the story). The quotable verses should be EXACT scripture text that he can share word-for-word.
+
 Respond with ONLY valid JSON in this exact format (no markdown, no code fences, just raw JSON):
 
 {
+  "quickStudy": {
+    "summary": "A 2-3 paragraph plain-language summary of what actually happens in this week's scripture block — the story, the events, the key moments. Write it like you're telling a friend what happened, not like a textbook.",
+    "mustRead": [
+      {"reference": "Genesis 1:1-3", "why": "Why this passage matters — what makes it worth reading even if you're short on time"},
+      {"reference": "...", "why": "..."}
+    ],
+    "quotableVerses": [
+      {"reference": "Genesis 1:27", "text": "The exact KJV scripture text here — word for word from the King James Bible"},
+      {"reference": "...", "text": "..."}
+    ],
+    "context": "1-2 paragraphs of historical, cultural, or doctrinal context that makes these scriptures come alive — things most people don't know that make you go 'oh, THAT is what was going on'"
+  },
   "quickInsight": "A single sentence — the one thing you'd want to share if you only had 30 seconds with one of the boys in the hallway",
   "keyThemes": ["3-5 key themes from this week's reading that connect to their lives"],
   "discussionQuestions": ["4-5 thought-provoking questions for class discussion — questions that make them think, not just recall facts"],
