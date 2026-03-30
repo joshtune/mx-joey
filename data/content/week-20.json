@@ -1,74 +1,83 @@
 {
 	"weekNumber": 20,
-	"generatedAt": "2026-03-30T05:16:07.658Z",
-	"quickStudy": {
-		"summary": "After giving Moses the Ten Commandments and the law on Mount Sinai, God gives Moses a massive building project: the Tabernacle — a portable, sacred tent where God will literally dwell among the Israelites as they travel through the wilderness. God gives incredibly detailed blueprints for every piece of it. First, He asks the people to bring an offering — gold, silver, fabric, wood, oil, spices — but only from people who give 'willingly with his heart.' Then He describes the furniture that will go inside: the Ark of the Covenant (a gold-covered chest with two angel figures on top where God's presence will rest), a gold table for special bread, and a golden candlestick (menorah) to light the space.\n\nExodus 26 covers the Tabernacle structure itself — layers of curtains, wooden frames, and a thick veil that separates the inner Holy of Holies (where the Ark sits) from the outer Holy Place. Chapter 27 describes the bronze altar for burnt offerings and the large courtyard surrounding the whole thing. In chapters 30–31, God adds more details: a small golden altar for burning incense, a bronze washing basin for the priests, special anointing oil and incense recipes that are sacred and can't be copied for personal use. Then comes a cool moment — God calls two specific craftsmen by name, Bezaleel and Aholiab, and says He has 'filled them with the spirit of God' to do all the skilled work. Finally, God reemphasizes keeping the Sabbath and hands Moses the two stone tablets written by God's own finger.",
-		"mustRead": [
-			{
-				"reference": "Exodus 25:1-9",
-				"why": "The heart of the whole project — God asks for willing offerings and reveals why He wants a tabernacle: 'that I may dwell among them.' Every detail that follows flows from this purpose."
-			},
-			{
-				"reference": "Exodus 25:17-22",
-				"why": "The mercy seat on the Ark of the Covenant — this is where God says He will meet with Moses and speak to him. It's the most sacred object in all of Israel."
-			},
-			{
-				"reference": "Exodus 26:31-34",
-				"why": "The veil separating the Holy Place from the Holy of Holies — the same kind of veil that was torn when Christ died. Understanding this setup makes the New Testament moment hit different."
-			},
-			{
-				"reference": "Exodus 31:1-6",
-				"why": "God calls craftsmen by name and fills them with His Spirit to do creative, skilled work — proof that God cares about talents beyond preaching and prophesying."
-			},
-			{
-				"reference": "Exodus 31:12-18",
-				"why": "God reemphasizes the Sabbath right in the middle of this huge building project, then personally hands Moses the stone tablets. Even sacred work pauses for rest and worship."
-			}
-		],
-		"quotableVerses": [
-			{
-				"reference": "Exodus 25:8",
-				"text": "And let them make me a sanctuary; that I may dwell among them."
-			},
-			{
-				"reference": "Exodus 25:2",
-				"text": "Speak unto the children of Israel, that they bring me an offering: of every man that giveth it willingly with his heart ye shall take my offering."
-			},
-			{
-				"reference": "Exodus 31:3",
-				"text": "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship."
-			},
-			{
-				"reference": "Exodus 25:22",
-				"text": "And there I will meet with thee, and I will commune with thee from above the mercy seat, from between the two cherubims which are upon the ark of the testimony, of all things which I will give thee in commandment unto the children of Israel."
-			}
-		],
-		"context": "The Israelites had just come out of Egypt, where temples were massive stone structures dedicated to false gods — places where only pharaohs and priests could enter. God flips this on its head. He designs a portable tent that travels WITH the people, right in the center of their camp. The message is radical: God doesn't sit in a faraway palace waiting for you to come to Him — He moves into the neighborhood. Every tribe camped around the Tabernacle, so no matter where you were, you could look toward the center and know God was there.\n\nThe level of detail God gives might seem overwhelming, but it mattered to the Israelites. In the ancient world, a god's dwelling place reflected that god's character. The gold, the fine linen, the specific colors (blue, purple, scarlet) — all of it communicated holiness, beauty, and order. And the fact that God asked for willing donations rather than demanding a tax? That was unheard of. Most ancient rulers conscripted labor and seized resources for their building projects. God wanted a house built by people who actually wanted to build it. Bezaleel and Aholiab being 'filled with the spirit of God' to do metalwork, weaving, and engraving also shows something profound — the Spirit of God isn't just for prophets. It's for anyone doing God's work with their hands and their talents."
-	},
-	"quickInsight": "God didn't ask the Israelites to come find Him in some faraway place — He moved in right next to them, and He wants to do the same thing in your life.",
-	"keyThemes": [
-		"God wants to be close to us — He moves toward us, not away",
-		"Willing hearts matter more than the size of the offering",
-		"Your specific talents and skills are spiritual gifts God can use",
-		"Sacred spaces and habits help us feel God's presence",
-		"Even important work needs to pause for rest and worship (Sabbath)"
+	"generatedAt": "2026-03-30T08:18:24.467Z",
+	"sourceUrl": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/20?lang=eng",
+	"lessonTitle": "Beware Lest Thou Forget the Lord",
+	"quickInsight": "When life is comfortable, that's when you're most likely to drift from God.",
+	"quotableVerses": [
+		{
+			"reference": "Deuteronomy 6:5",
+			"text": "And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might."
+		},
+		{
+			"reference": "Deuteronomy 30:19",
+			"text": "I call heaven and earth to record this day against you, that I have set before you life and death, blessing and cursing: therefore choose life, that both thou and thy seed may live."
+		},
+		{
+			"reference": "Deuteronomy 8:2",
+			"text": "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart, whether thou wouldest keep his commandments, or no."
+		},
+		{
+			"reference": "Deuteronomy 8:11",
+			"text": "Beware that thou forget not the LORD thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day."
+		}
 	],
-	"discussionQuestions": [
-		"God told Moses 'let them make me a sanctuary, that I may dwell among them.' What does it look like to make space for God in your life — not just at church, but during the week? What crowds Him out?",
-		"God only wanted offerings from people who gave 'willingly with his heart.' Why does it matter whether we want to do something versus just going through the motions? Can you think of a time when your heart wasn't really in something and it showed?",
-		"Bezaleel was filled with the Spirit of God to do woodworking, metalworking, and art — not preaching or prophesying. What talents or skills do you have that you might not think of as 'spiritual' but that God could actually use?",
-		"The Tabernacle had layers — an outer courtyard anyone could enter, a Holy Place for priests, and a Holy of Holies only the high priest could enter once a year. Why do you think God set it up with these different levels? How is the temple today similar?",
-		"God told the Israelites to keep the Sabbath even while building His own house. What does that tell you about how God views rest? Is it hard to actually rest on Sundays, and what gets in the way?"
-	],
-	"teachingIdeas": [
-		"Show them a blueprint or floor plan (pull one up on your phone) and ask: 'If you were designing a house for someone you loved, what would you include?' Then read Exodus 25:8-9 and explain that God gave Moses a blueprint for His house — and every detail was about making it possible for God to be close to His people. Walk through the Tabernacle layout on a simple diagram and let them see how everything pointed inward toward God's presence.",
-		"Bring a few random objects — a basketball, a phone charger, a pencil, a scripture case — and set them on a table. Ask each young man to pick one and explain how that object represents a talent or skill they have. Then read Exodus 31:1-6 about Bezaleel being filled with the Spirit to do craftsmanship. Make the point: God doesn't just need missionaries and bishops — He needs guys who can code, build, create, lead, listen, make people laugh, and solve problems. Their thing IS their offering.",
-		"Object lesson: Set up three zones in the room with tape or chairs — the courtyard, the Holy Place, and the Holy of Holies. Have the young men stand in the 'courtyard' and talk about how most people only interact with God at a surface level. Move to the Holy Place — this is like regular scripture study and prayer. Then talk about the Holy of Holies — those rare, deep spiritual moments. Ask: 'Where do you spend most of your time? What would it take to go deeper?' Connect it to temple worship.",
-		"Have each young man write down one thing they could 'offer willingly' this week — not money, but time, effort, a skill, or an attitude. It could be helping at home without being asked, reaching out to a friend who's struggling, or putting real effort into something they usually phone in. Tape them to the wall as a 'quorum offering.' Follow up next week."
-	],
-	"activities": [
-		"Service project with a building or creating theme — volunteer to help someone in the ward with a project (yard work, painting, organizing) and tie it back to Bezaleel using his skills for God. Before you start, read Exodus 31:1-6 together and talk about how serving with your hands is spiritual work.",
-		"Tabernacle model challenge — split into teams and give each group basic supplies (cardboard, tape, markers, aluminum foil) and 20 minutes to build a model of the Tabernacle based on the descriptions in Exodus 25-27. Have them present their models and explain what each part represents. It gets competitive and fun, and they'll remember the layout.",
-		"Personal sanctuary discussion + goal setting — go around the circle and have each young man share one place or habit where they feel closest to God (their room, a hiking trail, listening to music, prayer before a game). Then challenge them to intentionally go to that 'sanctuary' at least twice this week and spend 5 minutes just being still. Share experiences the following Sunday."
+	"sections": [
+		{
+			"title": "The Story",
+			"icon": "scroll",
+			"items": [
+				"Moses is old. He's spent 40 years leading millions of people through a desert, and now he's standing at the edge of the promised land — a place he'll never set foot in.",
+				"This is his final speech. Everything he's ever wanted to say to Israel, he says now. It's not battle tactics or survival tips — it's 'Don't forget God when things get easy.'",
+				"He reminds them of everything God did: plagues in Egypt, the Red Sea, manna every morning. Then he warns: when you're comfortable, fed, and settled — that's when you'll forget.",
+				"Moses dies on Mount Nebo, looking out over a land he gave his life to reach. His faithfulness still got him to God's real promised land — eternal life."
+			]
+		},
+		{
+			"title": "Why This Hits Different at 14",
+			"icon": "heart",
+			"items": [
+				"Moses isn't warning about hard times — he's warning about easy ones. When life is good, when you're killing it in sports or your friend group is solid, that's when God quietly slides to the back of your mind.",
+				"Think about your phone. You charge it every night without thinking. But if you stopped charging it, you wouldn't notice for a while — until it dies at the worst moment. Your connection to God works the same way.",
+				"Deuteronomy 8:17 warns about saying 'My power and the might of mine hand hath gotten me this wealth.' It's easy to take credit for your wins and forget who actually blessed you with those talents.",
+				"This chapter is basically God saying: 'I'm not worried about you when life is hard — that's when you'll pray. I'm worried about you when everything's fine.'"
+			]
+		},
+		{
+			"title": "Heart Check",
+			"icon": "lightbulb",
+			"items": [
+				"The manual frames this week as a spiritual checkup on your heart. Ask the boys: if God could see a dashboard of what's in your heart right now — what you think about, what you want, what you're chasing — what would it show?",
+				"Draw a heart on the board. Inside write what Deuteronomy says should be there (love for God, His commandments, gratitude). Outside write what creeps in (pride, distraction, the 'I got this on my own' attitude).",
+				"Object lesson: hand a boy your phone (locked). Ask him to unlock it. He can't. Give him the passcode and he's in. Point: God's commandments aren't locks keeping you out — they're the passcode to everything He wants to give you."
+			]
+		},
+		{
+			"title": "Talk Starters",
+			"icon": "question",
+			"items": [
+				"When's a time things were going well and you realized you hadn't prayed or read scriptures in a while? What pulled you back?",
+				"Moses says love God with all your heart, soul, and might. What does 'all your might' look like for a 14-year-old? What would actually change this week?",
+				"If you had to explain to a friend who's not a member why God matters to you — no church voice, just real — what would you say?",
+				"Deuteronomy 30:19 says 'choose life.' What does choosing spiritual life over spiritual death look like on a random Tuesday after school?"
+			]
+		},
+		{
+			"title": "Challenge for the Week",
+			"icon": "target",
+			"items": [
+				"Every night this week, before you charge your phone, name one specific thing God did for you that day. Out loud. Not in your head — say it.",
+				"Pick one verse from Deuteronomy 6:5–9 and put it somewhere you'll see daily — lock screen, bathroom mirror, locker. The Israelites literally tied scriptures to their foreheads. You can handle a sticky note."
+			]
+		},
+		{
+			"title": "Restoration Connection",
+			"icon": "link",
+			"items": [
+				"Deuteronomy 18:15–19 prophesies a 'Prophet like unto Moses.' The Savior told the Nephites directly: 'I am he of whom Moses spake' (3 Nephi 20:23). Peter, Nephi, and Moroni all referenced this same prophecy.",
+				"Lehi's final words in 2 Nephi 2:26–29 echo Moses's 'choose life' speech — choose liberty and eternal life through Christ, or captivity and death. Same doctrine, 600 years later, from a father who also wouldn't see the promised land.",
+				"The sacrament prayers (D&C 20:77) are your weekly Deuteronomy 6:12 moment — 'lest thou forget.' Every Sunday you renew the exact kind of covenant Moses begged Israel to keep."
+			]
+		}
 	]
 }

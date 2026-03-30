@@ -1,70 +1,92 @@
 {
 	"weekNumber": 21,
-	"generatedAt": "2026-03-30T05:12:49.100Z",
-	"quickStudy": {
-		"summary": "Moses has been up on Mount Sinai for 40 days getting the law from God, and the Israelites down below get restless. They go to Aaron and basically say, 'We don't know what happened to Moses — make us a god we can see.' Aaron caves to the pressure, collects everyone's gold earrings, and melts them into a golden calf. The people start worshiping it and throwing a party. God tells Moses what's happening and says He's ready to wipe them out, but Moses pleads with God to show mercy. Moses comes down the mountain carrying the two stone tablets written by God's own finger — and when he sees the calf and the chaos, he's so angry he throws the tablets down and shatters them. He burns the calf, grinds it to powder, dumps it in the water, and makes the people drink it. Then he confronts Aaron, who gives maybe the lamest excuse in all of scripture: 'I just threw the gold in the fire and out came this calf.' Moses draws a line and calls out, 'Who is on the Lord's side? Let him come unto me.'\n\nAfter the fallout, God tells Moses to lead the people forward but says He won't go with them personally because they're too stubborn and He might destroy them on the way. The people mourn when they hear this. Moses sets up a tent outside the camp where he meets with God, and the scriptures say God spoke to Moses 'face to face, as a man speaketh unto his friend.' Moses basically says, 'If You're not going with us, don't send us at all.' God agrees to go with them. Moses asks to see God's glory, and God says He'll let His goodness pass before Moses but will shield him in a cleft of the rock because no one can see God's full glory and live. Then God tells Moses to carve two new tablets — a second chance. Moses goes back up the mountain, and God proclaims His own name, describing Himself as merciful, gracious, longsuffering, and forgiving. The covenant is renewed. When Moses finally comes back down, his face is literally glowing so brightly from being in God's presence that he has to wear a veil.",
-		"mustRead": [
-			{
-				"reference": "Exodus 32:1-6",
-				"why": "The actual golden calf story — see how fast the people gave up on God and how Aaron folded under pressure. It's shockingly quick."
-			},
-			{
-				"reference": "Exodus 32:19-26",
-				"why": "Moses shatters the tablets, destroys the calf, calls out Aaron's weak excuse, and draws the line: 'Who is on the Lord's side?' This is the climax of the whole episode."
-			},
-			{
-				"reference": "Exodus 33:11-17",
-				"why": "God speaks to Moses face to face as a friend. Moses refuses to move forward without God's presence. This is what a real relationship with God looks like."
-			},
-			{
-				"reference": "Exodus 34:1-7",
-				"why": "God gives new tablets and declares who He is — merciful, gracious, longsuffering, forgiving. This is God describing Himself in His own words. Don't skip it."
-			}
-		],
-		"quotableVerses": [
-			{
-				"reference": "Exodus 32:26",
-				"text": "Then Moses stood in the gate of the camp, and said, Who is on the Lord's side? let him come unto me."
-			},
-			{
-				"reference": "Exodus 33:11",
-				"text": "And the Lord spake unto Moses face to face, as a man speaketh unto his friend."
-			},
-			{
-				"reference": "Exodus 33:14",
-				"text": "And he said, My presence shall go with thee, and I will give thee rest."
-			},
-			{
-				"reference": "Exodus 34:6-7",
-				"text": "And the Lord passed by before him, and proclaimed, The Lord, The Lord God, merciful and gracious, longsuffering, and abundant in goodness and truth, Keeping mercy for thousands, forgiving iniquity and transgression and sin."
-			}
-		],
-		"context": "The golden calf wasn't random — it was modeled after the Egyptian bull-god Apis, which the Israelites had been surrounded by for 400 years. They weren't necessarily rejecting God entirely; they were falling back into the only kind of worship they'd ever seen. That's what makes it so relatable — when things get hard, we tend to default back to old habits and familiar comforts instead of trusting the new path God is showing us. Aaron's excuse ('there came out this calf') is almost comical, but it's the classic move of minimizing your choices — 'it just happened' — instead of owning them.\n\nThe two sets of tablets are hugely significant. The first set was written by God and carved by God. The second set? Moses had to carve the stones himself, and then God wrote on them. Many scholars see this as a picture of repentance — after we mess up, God doesn't just hand us everything again. We have to do the work of showing up (carving the stone), and then He meets us there. Also, Moses's glowing face is the Hebrew word 'qaran,' which literally means 'to send out rays' — like horns of light. He had been so close to God's glory that it physically changed him. Being in God's presence doesn't just change how you feel; it changes who you are in ways other people can actually see."
-	},
-	"quickInsight": "Everyone builds golden calves — the question isn't whether you'll be tempted to take the easy way out, it's whether you'll be the guy who stands up and says, 'I'm on the Lord's side.'",
-	"keyThemes": [
-		"Standing up when everyone else caves — being the one who chooses the Lord's side even when it's unpopular",
-		"Peer pressure and compromise — how Aaron folded and how easy it is to justify going along with the crowd",
-		"Second chances and repentance — God gave new tablets and renewed the covenant even after Israel's worst moment",
-		"Having a real, personal relationship with God — not just going through the motions but talking to Him like a friend",
-		"Becoming who you spend time with — Moses glowed because he spent time with God; who and what are you spending time with?"
+	"generatedAt": "2026-03-30T08:19:17.318Z",
+	"sourceUrl": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/21?lang=eng",
+	"lessonTitle": "Be Strong and of a Good Courage",
+	"quickInsight": "God didn't wait for Joshua to feel ready. He just said GO.",
+	"quotableVerses": [
+		{
+			"reference": "Joshua 1:9",
+			"text": "Have not I commanded thee? Be strong and of a good courage; be not afraid, neither be thou dismayed: for the Lord thy God is with thee whithersoever thou goest."
+		},
+		{
+			"reference": "Joshua 3:5",
+			"text": "Sanctify yourselves: for to morrow the Lord will do wonders among you."
+		},
+		{
+			"reference": "Joshua 24:15",
+			"text": "Choose you this day whom ye will serve; … but as for me and my house, we will serve the Lord."
+		},
+		{
+			"reference": "Joshua 3:13",
+			"text": "And it shall come to pass, as soon as the soles of the feet of the priests that bear the ark of the Lord … shall rest in the waters of Jordan, that the waters of Jordan shall be cut off."
+		}
 	],
-	"discussionQuestions": [
-		"Aaron was a prophet and a leader, but he completely caved to peer pressure and made the calf anyway. Why do you think even good people fold under pressure? When have you felt that kind of pressure to just go along with something you knew wasn't right?",
-		"Moses asked, 'Who is on the Lord's side?' — what does it look like to answer that question in 2026? At school, online, on a team, with your friends?",
-		"The Israelites only waited 40 days before they gave up on Moses and on God's plan. What are you waiting on right now — an answer to prayer, a goal, something hard — and how do you keep trusting when it feels like nothing is happening?",
-		"God described Himself as 'merciful, gracious, longsuffering, and forgiving.' If someone asked you to describe God in your own words, what would you say? Does that match what you see in these chapters?",
-		"Moses spent so much time with God that his face literally glowed. People could see it. What do you think happens to a person — how they talk, act, treat people — when they're spending real time with God? Can other people tell?"
-	],
-	"teachingIdeas": [
-		"Start class by giving the quorum a group challenge that requires patience — like a puzzle or a task that takes longer than expected. After a couple minutes, casually offer an easy shortcut that 'kind of' solves it but doesn't really count. See who takes it and who sticks with the real challenge. Use that to launch into the golden calf — Israel got tired of waiting and took the shortcut. Ask: 'What are the golden calves in your life? What shortcuts are you tempted to take instead of trusting God's timing?'",
-		"Read Aaron's excuse in Exodus 32:24 out loud — 'I cast it into the fire, and there came out this calf' — and let the guys react. It's genuinely funny how bad it is. Then have them think of modern versions of that excuse: 'It just happened,' 'Everyone was doing it,' 'I didn't really have a choice.' Talk about the difference between owning your choices and making excuses. Real strength is saying, 'Yeah, I chose that, and it was wrong.'",
-		"Do a 'two tablets' object lesson. Give each young man a piece of paper and have them write down a personal commitment or covenant with God. Then crumple it up (representing the broken tablets and our mistakes). Give them a second piece of paper — they have to write it again, but this time they get to think about what they're really committing to. The point: God gives second chances, but the second time around, we do some of the work. Repentance isn't passive.",
-		"Share the idea that Moses's face changed because of who he spent time with — then ask each young man to honestly think about the five people (or apps, or content) they spend the most time with. Are those things making them 'glow' — becoming better, kinder, stronger? Or are they pulling them toward their own golden calf? Keep it no-shame, just honest self-reflection."
-	],
-	"activities": [
-		"'Who Is on the Lord's Side' challenge night — set up a series of team challenges or relay races where at key moments, one team member has to make a choice: take a shortcut that helps themselves but hurts the team, or do the harder right thing. Debrief afterward about what it felt like to be the one who had to choose, and connect it to Moses's call in Exodus 32:26. End with each young man writing down one specific thing this week where they're going to choose the Lord's side.",
-		"Service project: 'Second Chances' night — partner with a local food bank, thrift store, or community garden where the whole point is restoring or renewing something (sorting donated items, cleaning up a space, prepping care kits). Use the work as a metaphor for Exodus 34 — God didn't throw Israel away after the golden calf; He renewed the covenant. Talk about how service is one way we 'carve new tablets' and recommit.",
-		"Campfire or outdoor devotional — find a spot where you can sit around a fire or under the stars. Read Exodus 33:11 together ('face to face, as a man speaketh unto his friend') and Exodus 33:14 ('My presence shall go with thee, and I will give thee rest'). Give each young man a few minutes of quiet to pray or think about their personal relationship with God. No phones, no distractions. Let them experience what it feels like to just be still with Him — even for five minutes."
+	"sections": [
+		{
+			"title": "The Story",
+			"icon": "scroll",
+			"items": [
+				"Moses is dead. Joshua — his assistant, not a prophet yet — gets tapped to lead an entire nation into enemy territory. No training montage. Just 'go.'",
+				"First obstacle: the Jordan River is flooding. God says march the priests straight into it. The water doesn't part UNTIL their feet hit the water.",
+				"Next: Jericho, a walled fortress. God's battle plan? Walk in circles and blow trumpets. It sounds ridiculous — until the walls collapse.",
+				"Then disaster: a guy named Achan secretly stashes stolen loot, and the whole army loses their next battle because of ONE person's hidden sin.",
+				"At the end of his life, Joshua draws a line: 'Choose you this day whom ye will serve.' No more riding the fence."
+			]
+		},
+		{
+			"title": "Why This Matters to You",
+			"icon": "heart",
+			"items": [
+				"Joshua was probably terrified. God told him 'be strong and of good courage' THREE TIMES in nine verses — you don't repeat that to someone who already feels brave. If you feel unready for the priesthood, for seminary, for standing up — you're in good company.",
+				"The Jordan River moment is real life: God often asks you to step into the water BEFORE He parts it. You bear your testimony before you feel it burning. You invite someone to church before you know they'll say yes. Faith means moving your feet first.",
+				"Achan's story hits different when you realize your hidden stuff — the stuff on your phone, the lies you think are harmless — doesn't just affect you. It affects your quorum, your family, your team. Sin is never just private.",
+				"Joshua 24:15 isn't a gentle suggestion. It's a 'pick a side' moment. Every day at school, online, with your boys — you're choosing who you serve whether you realize it or not."
+			]
+		},
+		{
+			"title": "Talk Starters",
+			"icon": "question",
+			"items": [
+				"When's the last time you had to do something hard before you felt ready — and it worked out? What made you step up?",
+				"God's plan for Jericho made zero military sense. Has the Holy Ghost ever prompted you to do something that seemed weird or pointless but turned out to matter?",
+				"Be honest: is there an 'Achan moment' in your life right now — something hidden you know is dragging you down? What would it take to let it go?",
+				"If you had to pick ONE thing you're choosing to serve right now based on where your time actually goes — what would it be? Is that the answer you want?"
+			]
+		},
+		{
+			"title": "How to Teach It",
+			"icon": "lightbulb",
+			"items": [
+				"Feet-in-the-water demo: Fill a shallow pan with water. Have a young man step toward it — explain nothing happens until you MOVE. Then read Joshua 3:13, 15. Ask: 'Where in your life is God waiting for you to step in before He acts?'",
+				"The Jericho method: Give them an impossible task (stack cups into a tower blindfolded, following only your voice instructions). Debrief: 'God's instructions don't always make sense. Joshua's army looked insane marching in circles. But obedience unlocked the miracle.'",
+				"Hidden weight: Put a small rock in someone's shoe at the start of class. After a few minutes ask how it feels. That's Achan's stolen goods — small, hidden, and it wrecks everything. Read Joshua 7:10–13."
+			]
+		},
+		{
+			"title": "Do This at Mutual",
+			"icon": "activity",
+			"items": [
+				"Courage challenge course: Set up a simple obstacle course where each station requires trusting a partner's voice while blindfolded. At each station, read one of the 'be strong and of good courage' verses. End with a group discussion: 'Where do you need courage right now — and who's got your back?'",
+				"Choose-you-this-day wall: Give each young man a card. One side: write what the WORLD is asking you to serve right now. Other side: write what GOD is asking. Tape them up. No one has to share — but let them see they're not the only ones fighting the same battle."
+			]
+		},
+		{
+			"title": "Challenge for the Week",
+			"icon": "target",
+			"items": [
+				"This week, do ONE thing that scares you before you feel ready — bear your testimony, talk to someone at school you've been avoiding, delete something off your phone, tell your parents something you've been holding back. Step into the river. Then watch what God does.",
+				"Memorize Joshua 1:9. Just that one verse. Say it to yourself before school every morning this week. See if it changes how you walk into the building."
+			]
+		},
+		{
+			"title": "Restoration Connection",
+			"icon": "link",
+			"items": [
+				"Joshua's name (Yehoshua) literally means 'Jehovah saves' — it's the same name as Jesus. Joshua led Israel through the Jordan into a new life. Jesus leads us through the waters of baptism into covenant life. Same pattern, same God.",
+				"President Nelson's 'Hear Him' talk (April 2020) echoes Joshua 1:8 — immerse yourself in the word of God and everything changes. Scripture study isn't homework; it's how God talks to you personally.",
+				"1 Nephi 15:23–24 — Nephi taught that holding to the word of God keeps you from falling. Joshua got the same counsel 2,600 years earlier. The pattern hasn't changed because it WORKS."
+			]
+		}
 	]
 }

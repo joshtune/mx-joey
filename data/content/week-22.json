@@ -1,82 +1,93 @@
 {
 	"weekNumber": 22,
-	"generatedAt": "2026-03-30T05:14:21.729Z",
-	"quickStudy": {
-		"summary": "After the golden calf disaster, Moses gathers all of Israel and basically says, 'Okay, let's try this again — but this time, let's build something for God.' He invites everyone to bring offerings to build the tabernacle — a portable temple they can carry through the wilderness. And the people go ALL in. They bring gold, silver, fabric, animal skins, wood, oil, spices — so much stuff that Moses actually has to tell them to STOP giving because they have more than enough (Exodus 36:5-7). Two guys named Bezaleel and Aholiab are called as master craftsmen, and they lead the construction. The tabernacle gets built piece by piece: the ark of the covenant, the mercy seat, the candlestick, the altars, the priestly robes — everything exactly as God commanded. When it's all done, Moses sets it up, and the glory of the Lord fills the tabernacle so powerfully that even Moses can't go inside. A cloud covers it by day and fire by night — a visible sign that God is with them.\n\nThen Leviticus kicks in with instructions for how to actually worship at this new tabernacle. Leviticus 1 covers burnt offerings — you bring your best animal, without blemish, as a voluntary gift to God. Leviticus 16 is the big one: the Day of Atonement (Yom Kippur). Once a year, the high priest Aaron enters the Holy of Holies — the most sacred space on earth — to make atonement for all of Israel. Two goats are chosen: one is sacrificed, and the other (the scapegoat) has the sins of the people symbolically placed on its head and is sent into the wilderness, never to return. It's an incredibly powerful symbol of how Christ would eventually carry our sins away. Finally, Leviticus 19 is God's practical holiness checklist: love your neighbor as yourself, don't steal, don't lie, respect your parents, be fair, take care of the poor. It's where God says, 'Be holy, for I the Lord your God am holy' — and then shows exactly what that looks like in everyday life.",
-		"mustRead": [
-			{
-				"reference": "Exodus 35:4-5, 20-22",
-				"why": "The people's overwhelming generosity — they give so freely for the tabernacle that Moses has to tell them to stop. Sets up the theme of willing hearts."
-			},
-			{
-				"reference": "Exodus 36:5-7",
-				"why": "Moses literally restrains the people from giving more. One of the only times in scripture where God's people give TOO much. A powerful moment."
-			},
-			{
-				"reference": "Exodus 40:33-38",
-				"why": "The climax of the entire Exodus story — the tabernacle is finished, the glory of the Lord fills it, and the cloud and fire appear. God is dwelling among His people."
-			},
-			{
-				"reference": "Leviticus 16:7-10, 20-22",
-				"why": "The scapegoat ceremony — the most vivid Old Testament symbol of the Atonement of Jesus Christ. The goat literally carries sins away into the wilderness."
-			},
-			{
-				"reference": "Leviticus 19:1-4, 11-18",
-				"why": "God's holiness checklist for everyday life. Includes 'love thy neighbour as thyself' — the verse Christ later called the second great commandment."
-			}
-		],
-		"quotableVerses": [
-			{
-				"reference": "Exodus 35:5",
-				"text": "Whosoever is of a willing heart, let him bring it, an offering of the Lord; gold, and silver, and brass."
-			},
-			{
-				"reference": "Exodus 36:7",
-				"text": "For the stuff they had was sufficient for all the work to make it, and too much."
-			},
-			{
-				"reference": "Exodus 40:34",
-				"text": "Then a cloud covered the tent of the congregation, and the glory of the Lord filled the tabernacle."
-			},
-			{
-				"reference": "Leviticus 16:21-22",
-				"text": "And Aaron shall lay both his hands upon the head of the live goat, and confess over him all the iniquities of the children of Israel, and all their transgressions in all their sins, putting them upon the head of the goat, and shall send him away by the hand of a fit man into the wilderness: And the goat shall bear upon him all their iniquities unto a land not inhabited: and he shall let go the goat in the wilderness."
-			},
-			{
-				"reference": "Leviticus 19:2",
-				"text": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the Lord your God am holy."
-			},
-			{
-				"reference": "Leviticus 19:18",
-				"text": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the Lord."
-			}
-		],
-		"context": "The tabernacle wasn't just a fancy tent — it was designed to be a portable Mount Sinai. The whole structure was a way for God to come DOWN and dwell among His people, not just speak from a distant mountaintop. Every detail pointed to Christ: the veil separating the Holy of Holies symbolized the barrier between God and man (which would literally tear at Christ's crucifixion), the ark contained God's law and His mercy seat sat on top of it (mercy over justice), and the whole thing was oriented so that when you entered, you walked west — toward the setting sun and the presence of God. The people had just failed catastrophically with the golden calf, and God was essentially saying, 'I'm not giving up on you. Build this, and I will live among you.'\n\nThe Day of Atonement in Leviticus 16 was the single most important day in the Israelite calendar. The high priest could only enter the Holy of Holies on this one day per year, and he had to follow an incredibly specific process or he would die. He wore simple white linen — no fancy robes — symbolizing purity and humility. The two goats represented two aspects of Christ's Atonement: one died (Christ's sacrifice), and the other carried sins far away, never to return (Christ's power to remove our sins completely). The word 'scapegoat' in English actually comes from this very passage. And Leviticus 19's command to 'love thy neighbour as thyself' is the verse Jesus quoted in Matthew 22:39 as the second great commandment — it didn't originate in the New Testament. It was always the standard."
-	},
-	"quickInsight": "God didn't ask Israel for perfection after the golden calf — He asked for a willing heart, and then He came and dwelt among them anyway.",
-	"keyThemes": [
-		"Willing hearts — giving your best to God, not because you have to but because you want to",
-		"God's presence — He wants to be close to us, not distant, and He makes a way for that to happen",
-		"The Atonement — Christ carries our sins away completely, like the scapegoat into the wilderness",
-		"Practical holiness — being holy isn't just a feeling, it's how you treat people every single day",
-		"Second chances — Israel built the tabernacle right after their worst failure, proving God doesn't give up on us"
+	"generatedAt": "2026-03-30T08:21:27.233Z",
+	"sourceUrl": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/22?lang=eng",
+	"lessonTitle": "The Lord Raised Up a Deliverer",
+	"quickInsight": "Every time you fall, Christ is still ready to pull you back.",
+	"quotableVerses": [
+		{
+			"reference": "Judges 3:9",
+			"text": "And when the children of Israel cried unto the Lord, the Lord raised up a deliverer to the children of Israel, who delivered them, even Othniel the son of Kenaz, Caleb's younger brother."
+		},
+		{
+			"reference": "Judges 4:14",
+			"text": "And Deborah said unto Barak, Up; for this is the day in which the Lord hath delivered Sisera into thine hand: is not the Lord gone out before thee?"
+		},
+		{
+			"reference": "Judges 7:2",
+			"text": "And the Lord said unto Gideon, The people that are with thee are too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me."
+		},
+		{
+			"reference": "Judges 16:20",
+			"text": "And he awoke out of his sleep, and said, I will go out as at other times before, and shake myself. And he wist not that the Lord was departed from him."
+		}
 	],
-	"discussionQuestions": [
-		"The Israelites gave so much to build the tabernacle that Moses had to tell them to stop. What would it look like if we showed up to church or to quorum with that kind of energy and generosity? What holds us back?",
-		"The scapegoat literally carried all of Israel's sins into the wilderness and never came back. What does it feel like to know that Christ doesn't just forgive your mistakes — He carries them away so they're completely gone? Do you actually believe that, or is it hard to let go of guilt?",
-		"Leviticus 19:18 says to love your neighbor as yourself. Be honest — is there someone at school, on your team, or online that you struggle to treat that way? What would change if you actually tried it for one week?",
-		"God filled the tabernacle with His glory right after Israel's biggest failure (the golden calf). Have you ever felt like God showed up for you right when you thought you'd messed up the worst? What happened?",
-		"Bezaleel and Aholiab were called by name to use their specific skills — craftsmanship, art, design — to build the tabernacle. What skills or talents do you have that God might want you to use for something bigger than yourself?"
-	],
-	"teachingIdeas": [
-		"Bring a box or bag and ask each young man to put something in it that represents what they'd be willing to 'offer' — their time, a talent, energy, attention. Then read Exodus 35:5 ('whosoever is of a willing heart') and talk about how the tabernacle was built by ordinary people giving what they had. Connect it to quorum goals, serving others, or how they show up on Sundays.",
-		"Do a scapegoat demonstration: write sins, mistakes, or burdens on slips of paper (anonymously). Put them in someone's hands, read Leviticus 16:21-22, then have that person walk out of the room and throw them away — gone, never coming back. Talk about how the Atonement doesn't just cover our sins, it removes them. This can be really powerful if you let it breathe and don't over-explain it.",
-		"Show a picture of a temple and a picture of the tabernacle side by side. Walk through the parallels — both are houses of the Lord, both require sacrifice and preparation to enter, both have a most holy place where God's presence dwells. Ask: if the Israelites were willing to give everything to build a portable tent for God, what are we willing to give to be worthy to enter His house today?",
-		"Read Leviticus 19:2, 11-18 like a 'holiness checklist' and have the young men rate themselves honestly (thumbs up, sideways, or down) on each one — not to shame anyone, but to show that holiness is made up of real, everyday choices: don't lie, don't steal, don't hold grudges, love your neighbor. Holiness isn't abstract — it's Monday through Saturday behavior."
-	],
-	"activities": [
-		"Service blitz (willing hearts in action): As a quorum, pick a family in the ward or a neighbor and show up to do a service project — yard work, moving help, meal delivery, whatever is needed. Frame it as the 'Exodus 35 challenge': bring what you've got (your time, your energy, your hands) with a willing heart. No complaining allowed.",
-		"Build something together: Do a team-building activity where the quorum has to construct something with limited materials — a shelter, a tower, a bridge — but everyone has to contribute a specific piece (like Bezaleel and Aholiab leading and everyone bringing different skills). Debrief by talking about how God calls us by name, gives us specific gifts, and needs all of us to build His kingdom.",
-		"Scapegoat campfire: If you can do an outdoor activity, have a small fire pit evening. Give each young man a piece of paper to write down something they want to let go of — a grudge, a regret, a bad habit. Read Leviticus 16:21-22 together, then let them throw their papers in the fire. No one shares unless they want to. Close with a testimony about the reality of Christ's Atonement and the fresh start it offers."
+	"sections": [
+		{
+			"title": "The Story",
+			"icon": "scroll",
+			"items": [
+				"Israel keeps repeating the same cycle: they forget God, chase after what everyone around them is doing, hit rock bottom, cry out for help — and God sends someone to save them. Every. Single. Time.",
+				"Deborah is a prophetess and judge who rallies a terrified general named Barak to fight an impossible battle. Her faith is so contagious she basically says, 'Get up. God's already out there ahead of you.'",
+				"Gideon has an army of 32,000, and God says 'Too many.' He cuts it down to 300 men with torches and trumpets — because God wants Israel to know HE won the battle, not them.",
+				"Samson is born with a divine calling and supernatural strength. But he keeps chasing what feels good in the moment — wrong relationships, wrong places, wrong choices — until he literally doesn't realize God's power has left him."
+			]
+		},
+		{
+			"title": "The Samson Warning",
+			"icon": "shield",
+			"items": [
+				"Samson is the cautionary tale every young man needs to hear. He had more God-given potential than almost anyone in scripture — and he wasted it because he couldn't say no to what 'pleaseth him well.'",
+				"The scariest verse in Judges: 'He wist not that the Lord was departed from him.' Samson didn't even notice the Spirit was gone. That's what happens when you keep pushing boundaries — you stop feeling the difference.",
+				"Sister Dibb said it perfectly: 'Instead of arising and shining forth to fulfill his great potential, Samson was overcome by the world, lost his God-given power, and died a tragic, early death.'",
+				"You're going to face situations where the wrong choice feels exciting and the right choice feels boring. Samson picked exciting every time. Don't be Samson."
+			]
+		},
+		{
+			"title": "Why This Matters to You",
+			"icon": "heart",
+			"items": [
+				"Israel's problem wasn't one big rebellion — it was slowly blending in with the people around them until they couldn't tell the difference anymore. That's how peer pressure actually works. Not one big moment, but a slow drift.",
+				"You're going to mess up the same way more than once. That's not the end of the story. The whole book of Judges proves God doesn't give up on people who keep falling — as long as they keep coming back.",
+				"Gideon's 300 soldiers prove something: God doesn't need you to be the biggest, strongest, or most popular. He needs you to show up and trust Him. Your 'not enough' is more than enough when God's in it.",
+				"Deborah's faith didn't just save her — it lifted everyone around her. Your faith at school, at practice, in your friend group matters more than you think. One person's courage can change the room."
+			]
+		},
+		{
+			"title": "Talk Starters",
+			"icon": "question",
+			"items": [
+				"Judges 2:19 says Israel was 'worse than their fathers.' What's one area where it's easy for our generation to drift further from God than the last one did?",
+				"Samson didn't even realize the Spirit had left. How do you know when you're starting to drift? What does it feel like when the Holy Ghost is pulling back?",
+				"Gideon's army went from 32,000 to 300. Has there been a time when you felt outmatched or outnumbered doing the right thing? What happened?",
+				"Deborah told Barak, 'Is not the Lord gone out before thee?' If you really believed God was already ahead of you in your hardest situation, what would you do differently?"
+			]
+		},
+		{
+			"title": "How to Teach It",
+			"icon": "lightbulb",
+			"items": [
+				"Draw the cycle on the board: Forget God → Bad consequences → Cry for help → God delivers → Repeat. Ask them where they are in the cycle. Then ask: what breaks the cycle? (Answer: actually remembering — which is exactly what the sacrament is for.)",
+				"Hand a boy his phone and tell him to set it to silent without looking at the screen. Point: Samson's strength left so gradually he didn't notice. Sin works the same way — you stop feeling the warnings before you stop doing the thing.",
+				"Read Judges 7:16–21 and give them the math: 300 guys with torches vs. 135,000 soldiers. Ask: what's YOUR version of 300 vs. 135,000? Then read D&C 84:88 — 'I will go before your face. I will be on your right hand and on your left.'"
+			]
+		},
+		{
+			"title": "Challenge for the Week",
+			"icon": "target",
+			"items": [
+				"Pick one cycle you're stuck in — something you keep falling back into even though you've tried to stop. This week, instead of just feeling bad about it, actually cry unto the Lord like Israel did. Kneel down and say it out loud in prayer. Name it.",
+				"Be Deborah once this week: say something about Christ or your faith to someone who needs to hear it — a friend, a sibling, someone at school. Just one real sentence of testimony."
+			]
+		},
+		{
+			"title": "Restoration Connection",
+			"icon": "link",
+			"items": [
+				"Alma 36 is the Book of Mormon's version of the Judges cycle — Alma hits absolute rock bottom, calls on Christ, and is delivered. Read Alma 36:18–21 side by side with Judges 3:9. Same pattern, same God.",
+				"D&C 84:87–88 is the answer to Deborah's question 'Is not the Lord gone out before thee?' — 'I will go before your face. I will be on your right hand and on your left, and my Spirit shall be in your hearts, and mine angels round about you.'",
+				"Elder Oaks taught that covenants carry both responsibilities and power. Samson lost his power when he broke his covenants. Your baptismal and priesthood covenants work the same way — keep them, and the power stays."
+			]
+		}
 	]
 }
