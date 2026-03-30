@@ -5,4 +5,5 @@ build
 .env.*
 !.env.example
 .DS_Store
+.idea
 vite.config.ts.timestamp*
