@@ -112,7 +112,7 @@ async function main() {
 	let response: string;
 	try {
 		const claudePath = process.env.CLAUDE_PATH || '/Users/joshtune/.local/bin/claude';
-		response = execSync(`${claudePath} -p ${JSON.stringify(prompt)}`, {
+		response = execSync(`${claudePath} -p ${JSON.stringify(prompt)} --tools ""`, {
 			encoding: 'utf-8',
 			timeout: 120000,
 			maxBuffer: 1024 * 1024,

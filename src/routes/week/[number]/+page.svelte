@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { formatDateRange } from '$lib/utils';
+	import { base } from '$app/paths';
 	import type { PageData } from './$types';
 
 	let { data }: { data: PageData } = $props();
@@ -16,7 +17,7 @@
 <nav class="flex items-center justify-between mb-6">
 	{#if prevWeek}
 		<a
-			href="/week/{prevWeek}"
+			href="{base}/week/{prevWeek}"
 			class="text-sm text-primary hover:underline flex items-center gap-1"
 		>
 			<span>&larr;</span> Week {prevWeek}
@@ -25,11 +26,11 @@
 		<span></span>
 	{/if}
 
-	<a href="/" class="text-xs text-text-muted hover:underline">Today</a>
+	<a href="{base}/" class="text-xs text-text-muted hover:underline">Today</a>
 
 	{#if nextWeek}
 		<a
-			href="/week/{nextWeek}"
+			href="{base}/week/{nextWeek}"
 			class="text-sm text-primary hover:underline flex items-center gap-1"
 		>
 			Week {nextWeek} <span>&rarr;</span>
