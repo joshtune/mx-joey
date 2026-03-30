@@ -27,6 +27,8 @@ export interface QuickStudy {
 export interface GeneratedContent {
 	weekNumber: number;
 	generatedAt: string;
+	lessonTitle?: string;
+	sourceUrl?: string;
 	quickStudy: QuickStudy;
 	discussionQuestions: string[];
 	teachingIdeas: string[];

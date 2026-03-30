@@ -80,8 +80,18 @@
 			{formatDateRange(data.lesson.dateStart, data.lesson.dateEnd)}
 		</span>
 	</div>
-	<h1 class="text-2xl font-bold text-text mb-1">{data.lesson.title}</h1>
-	<p class="text-sm text-text-muted">Week {data.lesson.weekNumber}</p>
+	{#if data.content?.lessonTitle}
+		<h1 class="text-2xl font-bold text-text mb-1">{data.content.lessonTitle}</h1>
+		<p class="text-sm text-text-muted">{data.lesson.scriptureBlock}</p>
+	{:else}
+		<h1 class="text-2xl font-bold text-text mb-1">{data.lesson.title}</h1>
+	{/if}
+	<div class="flex items-center gap-3 mt-2">
+		<span class="text-xs text-text-muted">Week {data.lesson.weekNumber}</span>
+		{#if data.content?.sourceUrl}
+			<a href={data.content.sourceUrl} target="_blank" rel="noopener" class="text-xs text-primary hover:underline">Read in manual &rarr;</a>
+		{/if}
+	</div>
 </div>
 
 {#if data.content}
