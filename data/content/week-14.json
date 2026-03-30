@@ -1,80 +1,89 @@
 {
 	"weekNumber": 14,
-	"generatedAt": "2026-03-30T07:21:24.404Z",
+	"generatedAt": "2026-03-30T07:38:16.785Z",
 	"sourceUrl": "https://www.churchofjesuschrist.org/study/manual/come-follow-me-for-home-and-church-old-testament-2026/14?lang=eng",
-	"lessonTitle": "\"He Will Swallow Up Death in Victory\": Easter",
-	"quickStudy": {
-		"summary": "This week's Come Follow Me lesson is a special Easter lesson that steps away from the sequential Exodus reading to focus on Old Testament prophecies that point to Jesus Christ's mortal ministry, atoning sacrifice, and Resurrection. The manual walks through a powerful table of Old Testament passages — from Zechariah, Isaiah, the Psalms, and Daniel — paired with their New Testament fulfillments. The message is that ancient believers looked forward to their Messiah with faith, just as we look back with faith, and that this shared hope connects all of God's covenant people across every dispensation.\n\nThe manual emphasizes four things Christ helps us overcome: sin, death, trials, and weaknesses — with scriptures sorted into those categories. It also invites us to consider the price the Savior and Heavenly Father paid for our salvation (Isaiah 53:3–5, Mosiah 3:7, D&C 19:16–19, John 3:16). There is a strong focus on sharing Easter joy with others — through scripture messages, Easter cards, social media, and hymns. The manual also ties directly into General Conference happening this Easter weekend, inviting members to listen for apostolic testimonies of the Resurrection. Finally, it asks a deeply personal question: How would you explain to a friend who isn't a Christian why Jesus Christ is important to you?",
-		"mustRead": [
-			{
-				"reference": "Isaiah 53:3–5",
-				"why": "The heart of the Easter message in this lesson. The manual uses these verses to teach about the price the Savior paid — 'wounded for our transgressions, bruised for our iniquities.' It directly connects to Mosiah 3:7 and D&C 19:16–19 for Restoration-era witness of the same truth."
-			},
-			{
-				"reference": "Isaiah 25:8",
-				"why": "This is the title verse for the week — 'He will swallow up death in victory.' The manual pairs it with Mark 16:1–6 and Luke 24:6 as the Old Testament prophecy fulfilled at the empty tomb on Easter morning."
-			},
-			{
-				"reference": "Alma 7:10–13",
-				"why": "The manual highlights this as one of the most abundant and clear Book of Mormon prophecies about the Savior. It teaches that Christ took upon Himself pains, sicknesses, death, and infirmities so He could succor His people — covering all four categories the lesson identifies: sin, death, trials, and weaknesses."
-			},
-			{
-				"reference": "Doctrine and Covenants 19:15–19",
-				"why": "The manual uses this passage to teach about the price Jesus Christ paid for our salvation. This is the Savior's own first-person account of His suffering — uniquely powerful Restoration scripture that no other Christian tradition has."
-			},
-			{
-				"reference": "Mosiah 3:2–11",
-				"why": "Listed by the manual as one of the key Book of Mormon passages with prophecies that are 'even more abundant and clear' than the Old Testament. King Benjamin's angel-delivered testimony of Christ's mortal ministry and Atonement."
-			}
-		],
-		"quotableVerses": [
-			{
-				"reference": "Isaiah 25:8",
-				"text": "He will swallow up death in victory; and the Lord God will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the Lord hath spoken it."
-			},
-			{
-				"reference": "Isaiah 53:5",
-				"text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
-			},
-			{
-				"reference": "Alma 7:11–12",
-				"text": "And he shall go forth, suffering pains and afflictions and temptations of every kind; and this that the word might be fulfilled which saith he will take upon him the pains and the sicknesses of his people. And he will take upon him death, that he may loose the bands of death which bind his people; and he will take upon him their infirmities, that his bowels may be filled with mercy, according to the flesh, that he may know according to the flesh how to succor his people according to their infirmities."
-			},
-			{
-				"reference": "Doctrine and Covenants 19:16–17",
-				"text": "For behold, I, God, have suffered these things for all, that they might not suffer if they would repent; But if they would not repent they must suffer even as I;"
-			},
-			{
-				"reference": "Isaiah 53:3",
-				"text": "He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not."
-			}
-		],
-		"context": "From a Latter-day Saint perspective, this Easter lesson is remarkable because we don't rely solely on ancient prophecy — we have Restoration scripture where the Savior speaks in the first person about His own suffering (D&C 19:15–19) and where Book of Mormon prophets like Alma, King Benjamin, and Nephi give detailed, name-specific prophecies of Christ centuries before His birth. The manual explicitly points out that 'prophecies that teach about the Savior are even more abundant and clear in the Book of Mormon.' This is something unique to our faith — we can show that prophets on both hemispheres testified of the same Messiah. The temple connection is also significant: the Atonement and Resurrection are central to temple ordinances, where we learn that because of Christ, death is not the end and families can be sealed eternally. Isaiah 25:8 — 'He will swallow up death in victory' — isn't just a hope; for Latter-day Saints, it's an operational reality every time saving ordinances are performed for the living and the dead."
-	},
-	"quickInsight": "Because of what happened that first Easter morning, every hard thing you're going through right now has an expiration date — but you don't.",
-	"keyThemes": [
-		"Old Testament prophets looked forward to Christ just as we look back — same faith, same Savior, same covenant",
-		"The Savior's Atonement covers everything: sin, death, trials, and personal weaknesses",
-		"The price Jesus Christ and Heavenly Father paid for our salvation",
-		"Sharing Easter joy and peace with others — especially those who are struggling",
-		"Being able to explain to a friend why Jesus Christ matters to you"
+	"lessonTitle": "He Will Swallow Up Death in Victory",
+	"quickInsight": "Every Old Testament believer looked forward to the same Savior we look back on.",
+	"quotableVerses": [
+		{
+			"reference": "Isaiah 25:8",
+			"text": "He will swallow up death in victory; and the Lord God will wipe away tears from off all faces."
+		},
+		{
+			"reference": "1 Corinthians 15:22",
+			"text": "For as in Adam all die, even so in Christ shall all be made alive."
+		},
+		{
+			"reference": "Alma 7:11–12",
+			"text": "And he shall go forth, suffering pains and afflictions and temptations of every kind; and this that the word might be fulfilled which saith he will take upon him the pains and the sicknesses of his people. And he will take upon him death, that he may loose the bands of death which bind his people; and he will take upon him their infirmities, that his bowels may be filled with mercy, according to the flesh, that he may know according to the flesh how to succor his people according to their infirmities."
+		},
+		{
+			"reference": "Isaiah 53:5",
+			"text": "But he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed."
+		}
 	],
-	"discussionQuestions": [
-		"The manual asks: How would you explain to a friend who isn't a Christian why Jesus Christ is important to you? If someone at school asked you that tomorrow, what would you actually say?",
-		"The lesson sorts what Christ helps us overcome into four categories: sin, death, trials, and weaknesses. Which of those four feels most real to you right now in your life, and why?",
-		"Old Testament prophets like Isaiah wrote about Christ hundreds of years before He was born. Why do you think Heavenly Father wanted so many witnesses across so many centuries pointing to the same event?",
-		"The manual says that even during Easter, many people don't feel joyful. Who in your life might need to hear a message of hope this week, and how could you share it?",
-		"As you watch General Conference this Easter weekend, what are you hoping to hear from the prophet and apostles? What questions are you bringing?"
-	],
-	"teachingIdeas": [
-		"Use the manual's Old Testament / New Testament prophecy table as a matching activity. Write the Old Testament references on one set of cards and the New Testament fulfillments on another. Have the young men match them up, then discuss: What does it tell you about God's plan that these details were prophesied hundreds of years in advance? Then pivot to Book of Mormon prophecies (Alma 7:10–13, Mosiah 3:5–10) and point out how much more specific they are — names, places, details. This is one of the strongest testimonies of the Book of Mormon.",
-		"Read D&C 19:16–18 out loud together — slowly. Point out that this is the Savior Himself speaking about what He went through. No other Christian church has this scripture. Ask: 'What does it change to hear it in His own words instead of someone else describing it?' Then connect to Isaiah 53:3–5, written 700 years before it happened, and Alma 7:11–12, written about 80 years before. Three witnesses from three different times, all describing the same sacrifice.",
-		"Do the manual's sorting activity: give each young man a printed set of the scriptures listed (Isaiah 61:1–3, Ezekiel 36:26–28, Matthew 11:28–30, Romans 8:35–39, Alma 7:10–13, Alma 11:42–45, Alma 58:11, Moroni 10:32–33, D&C 19:15–19, Moses 5:9–12) and have them sort them into the four categories — sin, death, trials, weaknesses. Some fit in more than one. Discuss which ones surprised them and what it means that Christ's Atonement covers ALL of these, not just forgiveness of sin.",
-		"Prepare for General Conference together. The manual says to watch for testimonies of Christ and the Resurrection during conference. Challenge each young man to write down one testimony of the Savior they hear during conference that hits them personally, and come back next week ready to share it. Tie this to the priesthood responsibility to be a witness of Christ — they're not just listening, they're learning to bear testimony like the leaders they'll become."
-	],
-	"activities": [
-		"Easter Scripture Sharing: Have each young man pick one scripture from the lesson about what the Savior has done for us (from the manual's list) and create a short message — a text, a social media post, or a handwritten note — to share with someone specific this week. The manual suggests being prayerful about who needs to receive your Easter greeting. Make it real: they text or send it before they leave the activity.",
-		"General Conference Watch Party: Since this is General Conference weekend, organize a Saturday session watch party for the quorum (afternoon session works well). Bring snacks, have a whiteboard where they can write down key quotes or testimonies of Christ they hear. Keep a running tally of how many times speakers bear testimony of the Savior. Afterward, discuss what stood out and how it connects to this week's lesson about ancient and modern witnesses of Christ.",
-		"'Why Christ Matters to Me' Video Project: Inspired by the manual's question about explaining to a non-Christian friend why Jesus Christ matters, have each young man record a 30–60 second video testimony on their phone answering that question in their own words. No scripts, no pressure to be polished — just real. They can keep it private or share it on social media for Easter. This builds their ability to be a witness of Christ, which is core to their priesthood calling and future missionary service."
+	"sections": [
+		{
+			"title": "Prophecies Fulfilled in Christ",
+			"icon": "link",
+			"items": [
+				"Zechariah 9:9 foretold Christ's triumphal entry on a donkey — fulfilled in Matthew 21:1–11.",
+				"Zechariah 11:12–13 predicted betrayal for thirty pieces of silver — fulfilled in Matthew 26:14–16.",
+				"Psalm 22:16, 18 described pierced hands and feet, and lots cast for clothing — fulfilled at Calvary (John 19:17–18; Matthew 27:35).",
+				"Isaiah 25:8 promised death swallowed up in victory — fulfilled on Easter morning (Mark 16:1–6).",
+				"Point out: the Old Testament never names 'Jesus Christ,' yet His mission is on every page."
+			]
+		},
+		{
+			"title": "What Christ Overcomes for Us",
+			"icon": "shield",
+			"items": [
+				"The manual groups His power into four categories: sin, death, trials, and weaknesses.",
+				"Death — He broke the bands of death so every person born will be resurrected (Alma 11:42–45).",
+				"Sin — Through repentance and His grace we can be made clean (Moroni 10:32–33; D&C 19:15–19).",
+				"Trials — He descended below all things, so He can lift us through every hard moment (Alma 7:11–13).",
+				"Weaknesses — He gives us grace to turn weaknesses into strengths (Ether 12:27; Matthew 11:28–30)."
+			]
+		},
+		{
+			"title": "Discussion Questions",
+			"icon": "question",
+			"items": [
+				"How would you explain to a friend who isn't a member why Jesus Christ matters to you personally?",
+				"Isaiah 53:3–5 and D&C 19:16–19 describe the price the Savior paid. What price did Heavenly Father pay? (John 3:16)",
+				"When have you felt the Savior's power helping you through something hard — not just forgiving sin, but carrying a burden?",
+				"General conference is this Easter weekend. What testimony of the Resurrection stood out to you?"
+			]
+		},
+		{
+			"title": "Book of Mormon Witnesses of Christ",
+			"icon": "book",
+			"items": [
+				"The manual highlights that Book of Mormon prophecies of Christ are even more abundant and clear than the Old Testament.",
+				"1 Nephi 11:31–33 — Nephi saw in vision the Savior's ministry, crucifixion, and the multitudes He healed.",
+				"2 Nephi 25:13 — Nephi testified plainly that the Messiah would rise from the dead.",
+				"Mosiah 3:7 — King Benjamin described the Savior bleeding from every pore — details the Old Testament doesn't give us.",
+				"Ask: Why did Heavenly Father give the Restoration, including the Book of Mormon, to make these prophecies clearer?"
+			]
+		},
+		{
+			"title": "Teaching Ideas",
+			"icon": "lightbulb",
+			"items": [
+				"Sorting activity: Write the scripture references from the manual on slips of paper. Have the quorum sort them into sin, death, trials, and weaknesses — some fit multiple categories. Discuss why.",
+				"Prophecy matching: Put Old Testament prophecies on one side of the board, New Testament fulfillments on the other. Have the young men draw lines connecting them.",
+				"Since general conference is this weekend, invite each young man to listen for one testimony of the Resurrection and come ready to share it next week."
+			]
+		},
+		{
+			"title": "Spread the Savior's Peace",
+			"icon": "heart",
+			"items": [
+				"The manual asks: even at Easter, many people don't feel joyful. What can you do to spread the Savior's peace?",
+				"Challenge: pick one scripture about Christ's peace (Psalms 30:2–5; Isaiah 40:28–31; John 14:27) and text it to someone who needs it this week.",
+				"Consider creating a simple Easter message to share on social media or as a card — the manual specifically suggests this.",
+				"Ask: Who in the ward or neighborhood might need the quorum to show up for them this Easter?"
+			]
+		}
 	]
 }

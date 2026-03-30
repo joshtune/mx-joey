@@ -24,17 +24,9 @@ interface GeneratedContent {
 	generatedAt: string;
 	lessonTitle: string;
 	sourceUrl: string;
-	quickStudy: {
-		summary: string;
-		mustRead: { reference: string; why: string }[];
-		quotableVerses: { reference: string; text: string }[];
-		context: string;
-	};
-	discussionQuestions: string[];
-	teachingIdeas: string[];
-	activities: string[];
-	keyThemes: string[];
 	quickInsight: string;
+	quotableVerses: { reference: string; text: string }[];
+	sections: { title: string; icon: string; items: string[] }[];
 }
 
 async function loadSchedule(): Promise<Lesson[]> {
@@ -111,8 +103,6 @@ async function fetchCfmContent(weekNumber: number): Promise<{ text: string; url:
 
 		const html = await response.text();
 		const text = stripHtml(html);
-
-		// Trim to a reasonable size for the prompt (keep first ~8000 chars of content)
 		const trimmed = text.length > 8000 ? text.slice(0, 8000) + '...' : text;
 
 		console.log(`Fetched ${text.length} chars of lesson content (using ${trimmed.length})\n`);
@@ -132,7 +122,7 @@ OFFICIAL COME FOLLOW ME MANUAL CONTENT (from ${cfmUrl}):
 ${cfmContent}
 ---
 
-CRITICAL: Base your response on the ACTUAL Come Follow Me manual content above. The manual content is your PRIMARY source. Draw themes, scriptures, and teaching ideas from what the Church has published for this week. Do NOT make up themes or ignore what the manual covers.`
+CRITICAL: Base your response on the ACTUAL Come Follow Me manual content above. The manual content is your PRIMARY source. Let the manual's structure, themes, and emphasis drive what sections you create. Do NOT ignore what the manual covers.`
 		: `Note: Could not fetch the official manual content. Generate based on the scripture block, but keep it firmly grounded in Latter-day Saint doctrine.`;
 
 	return `You are helping a 1st Counselor in the Bishopric prepare to teach and mentor his Teachers Quorum (young men ages 14-15) in The Church of Jesus Christ of Latter-day Saints.
@@ -147,43 +137,49 @@ ${contentSection}
 LANGUAGE AND DOCTRINE REQUIREMENTS:
 - Use ONLY language, terminology, and teachings consistent with The Church of Jesus Christ of Latter-day Saints
 - Reference Latter-day Saint-specific scripture: Book of Mormon, Doctrine and Covenants, Pearl of Great Price — not just the Bible
-- Use correct Church terminology: Heavenly Father, the Savior (not just "God" or "Jesus"), the Restoration, priesthood, temple covenants, the prophet, General Conference, For the Strength of Youth, sacrament, the Holy Ghost (not "Holy Spirit")
-- Reference modern prophets and apostles when relevant (President Nelson, President Oaks, Elder Holland, Elder Bednar, etc.)
+- Use correct Church terminology: Heavenly Father, the Savior, the Restoration, priesthood, temple covenants, the prophet, General Conference, For the Strength of Youth, sacrament, the Holy Ghost
+- Reference modern prophets and apostles when relevant
 - Connect to Latter-day Saint youth experiences: seminary, mutual, sacrament meeting, missionary preparation, priesthood duties, temple trips
 - Do NOT use language, hymns, or concepts from other Christian denominations
 
-Generate content that this leader can use throughout the week — during Sunday class, at weekly activities, or in casual conversations with the young men. The tone should be:
-- Relatable to 14-15 year old young men
-- Grounded in the scriptures and the Come Follow Me manual
-- Connected to their daily lives (school, sports, friends, social media, goals, priesthood service)
-- Encouraging and uplifting, not preachy
-- Practical — things they can actually do this week
+TARGET: This is a pocket reference a leader pulls up on his phone. Keep things SHORT and scannable.
 
-Include a "quickStudy" section so the teacher can get grounded in the actual scriptures quickly — even if he only has 5 minutes. The summary should reflect what the Come Follow Me manual actually teaches for this week. The quotable verses should be EXACT scripture text (KJV for Bible, standard text for Book of Mormon/D&C/PGP).
+FORMAT RULES:
+1. "quickInsight" — ONE sentence. The hallway drop. 15 words max.
+2. "quotableVerses" — 3-4 exact scripture quotes (KJV for Bible, standard text for Book of Mormon/D&C/PGP). These are always visible on the page so the leader can read them off his phone.
+3. "sections" — This is where you ADAPT to the manual. Look at what the Come Follow Me manual emphasizes this week and create 4-6 sections that mirror its structure. Each section has a title, an icon hint, and short bullet-point items (1-2 sentences each, not paragraphs).
 
-Also include a "lessonTitle" field with the official lesson title from the Come Follow Me manual.
+For the "icon" field, use one of: "book", "scroll", "map", "question", "lightbulb", "activity", "heart", "shield", "users", "star", "link", "target"
 
-Respond with ONLY valid JSON in this exact format (no markdown, no code fences, just raw JSON):
+Example section types (use whatever fits THIS week's manual emphasis):
+- "What Happens This Week" (icon: "scroll") — 3-4 bullet summary of the narrative/events
+- "Prophecies Fulfilled" (icon: "link") — OT → NT connections if the manual highlights them
+- "Overcoming Through Christ" (icon: "shield") — if the manual focuses on the Atonement's power
+- "Discussion Questions" (icon: "question") — 3-4 questions for quorum discussion
+- "Teaching Ideas" (icon: "lightbulb") — 2-3 object lessons or approaches
+- "Activity Ideas" (icon: "activity") — 1-2 mutual activities
+- "Doctrinal Context" (icon: "map") — Restoration connections, modern prophet quotes
+- "For Their Daily Life" (icon: "target") — practical challenges for the week
+- Any other section that fits what the manual is teaching
+
+Keep items SHORT. A busy leader scanning his phone at mutual needs to see the point in one glance.
+
+Respond with ONLY valid JSON (no markdown, no code fences):
 
 {
-  "lessonTitle": "The official Come Follow Me lesson title for this week",
-  "quickStudy": {
-    "summary": "A 2-3 paragraph plain-language summary of what this week's Come Follow Me lesson covers — the key scriptures, the themes the manual focuses on, and what the Church wants members to take away. Write it like you're briefing a fellow leader.",
-    "mustRead": [
-      {"reference": "Isaiah 53:4-5", "why": "Why this passage matters and what the Come Follow Me manual highlights about it"},
-      {"reference": "...", "why": "..."}
-    ],
-    "quotableVerses": [
-      {"reference": "Isaiah 25:8", "text": "The exact scripture text — word for word"},
-      {"reference": "...", "text": "..."}
-    ],
-    "context": "1-2 paragraphs of doctrinal or historical context from a Latter-day Saint perspective — connect Old Testament passages to Restoration scripture, modern prophets, or temple symbolism where relevant"
-  },
-  "quickInsight": "A single sentence — the one thing you'd want to share if you only had 30 seconds with one of the boys in the hallway",
-  "keyThemes": ["3-5 key themes from this week's manual reading that connect to their lives"],
-  "discussionQuestions": ["4-5 thought-provoking questions for quorum discussion — draw from the manual's suggested questions and themes"],
-  "teachingIdeas": ["3-4 ways to teach these principles — approaches, object lessons, stories, analogies that land with teenage young men in the Church"],
-  "activities": ["2-3 activity ideas that reinforce this week's principles — things you could do at mutual or as a quorum, consistent with Church activity guidelines"]
+  "lessonTitle": "The official Come Follow Me lesson title",
+  "quickInsight": "One short sentence — the hallway drop",
+  "quotableVerses": [
+    {"reference": "Isaiah 25:8", "text": "Exact scripture text word for word"},
+    {"reference": "Alma 7:11", "text": "Exact scripture text word for word"}
+  ],
+  "sections": [
+    {
+      "title": "Section title matching this week's emphasis",
+      "icon": "scroll",
+      "items": ["Short bullet point 1", "Short bullet point 2"]
+    }
+  ]
 }`;
 }
 
@@ -201,9 +197,7 @@ async function main() {
 	console.log(`Scripture: ${lesson.scriptureBlock}`);
 	console.log(`Dates: ${lesson.dateStart} to ${lesson.dateEnd}\n`);
 
-	// Fetch the actual Come Follow Me manual content
 	const { text: cfmContent, url: cfmUrl } = await fetchCfmContent(lesson.weekNumber);
-
 	const prompt = buildPrompt(lesson, cfmContent, cfmUrl);
 
 	console.log('Running claude CLI...\n');
@@ -219,11 +213,9 @@ async function main() {
 		}).trim();
 	} catch (_err) {
 		console.error('Failed to run claude CLI. Make sure claude is installed and in your PATH.');
-		console.error('Install: https://docs.anthropic.com/en/docs/claude-code/overview');
 		process.exit(1);
 	}
 
-	// Parse JSON from response — handle potential markdown wrapping
 	let jsonStr = response;
 	const jsonMatch = response.match(/```(?:json)?\s*\n?([\s\S]*?)\n?```/);
 	if (jsonMatch) {
@@ -247,7 +239,6 @@ async function main() {
 		...parsed
 	};
 
-	// Save to file
 	if (!existsSync(CONTENT_DIR)) {
 		mkdirSync(CONTENT_DIR, { recursive: true });
 	}
@@ -261,9 +252,9 @@ async function main() {
 	console.log(`Content saved to ${filePath}`);
 	console.log(`\nLesson: "${content.lessonTitle}"`);
 	console.log(`Quick insight: "${content.quickInsight}"`);
-	console.log(`${content.discussionQuestions.length} discussion questions`);
-	console.log(`${content.teachingIdeas.length} teaching ideas`);
-	console.log(`${content.activities.length} activity ideas`);
+	console.log(`${content.quotableVerses.length} quotable verses`);
+	console.log(`${content.sections.length} sections`);
+	content.sections.forEach((s) => console.log(`  - ${s.title} (${s.items.length} items)`));
 	console.log(`\nDone! Open http://localhost:5176/week/${lesson.weekNumber} to view.`);
 }
 

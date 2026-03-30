@@ -12,16 +12,10 @@ export interface ScriptureQuote {
 	text: string;
 }
 
-export interface MustReadPassage {
-	reference: string;
-	why: string;
-}
-
-export interface QuickStudy {
-	summary: string;
-	mustRead: MustReadPassage[];
-	quotableVerses: ScriptureQuote[];
-	context: string;
+export interface ContentSection {
+	title: string;
+	icon: string;
+	items: string[];
 }
 
 export interface GeneratedContent {
@@ -29,10 +23,13 @@ export interface GeneratedContent {
 	generatedAt: string;
 	lessonTitle?: string;
 	sourceUrl?: string;
-	quickStudy: QuickStudy;
-	discussionQuestions: string[];
-	teachingIdeas: string[];
-	activities: string[];
-	keyThemes: string[];
 	quickInsight: string;
+	quotableVerses: ScriptureQuote[];
+	sections: ContentSection[];
+	// Legacy fields for backward compatibility with old content
+	quickStudy?: unknown;
+	keyThemes?: string[];
+	discussionQuestions?: string[];
+	teachingIdeas?: string[];
+	activities?: string[];
 }
