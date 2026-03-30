@@ -1,5 +1,7 @@
 @import 'tailwindcss';
 
+@custom-variant dark (&:is(.dark *));
+
 @theme inline {
 	--color-bg: oklch(0.98 0.005 80);
 	--color-surface: oklch(1 0 0);
@@ -16,4 +18,17 @@ body {
 	background-color: var(--color-bg);
 	color: var(--color-text);
 	font-family: var(--font-sans);
+	transition: background-color 0.2s, color 0.2s;
+}
+
+/* Dark mode overrides */
+.dark {
+	--color-bg: oklch(0.15 0.01 260);
+	--color-surface: oklch(0.2 0.01 260);
+	--color-primary: oklch(0.7 0.12 250);
+	--color-primary-light: oklch(0.25 0.04 250);
+	--color-text: oklch(0.9 0.01 260);
+	--color-text-muted: oklch(0.6 0.02 260);
+	--color-border: oklch(0.3 0.01 260);
+	--color-accent: oklch(0.7 0.12 150);
 }

@@ -124,8 +124,8 @@
 					</h3>
 					<ul class="space-y-2">
 						{#each data.content.quickStudy.mustRead as passage, i (i)}
-							<li class="bg-surface border border-border rounded-lg p-4 flex gap-3">
-								<span class="text-sm font-semibold text-primary whitespace-nowrap">{passage.reference}</span>
+							<li class="bg-surface border border-border rounded-xl p-4">
+								<span class="text-sm font-semibold text-primary block mb-1">{passage.reference}</span>
 								<span class="text-sm text-text-muted">{passage.why}</span>
 							</li>
 						{/each}
